@@ -1,5 +1,5 @@
 {
-  "installCommand": "npm install --prefix gym-website/backend && npm install --prefix gym-website/frontend",
+  "installCommand": "npm install && npm install --prefix gym-website/backend && npm install --prefix gym-website/frontend",
   "buildCommand": "npm install --prefix gym-website/frontend && npm run build --prefix gym-website/frontend",
   "outputDirectory": "gym-website/frontend/dist",
   "rewrites": [
