@@ -3,10 +3,12 @@ import jwt from 'jsonwebtoken';
 import { db } from '../db/engine.js';
 import { parseCookies } from '../utils/helpers.js';
 
+const JWT_SECRET = process.env.JWT_SECRET || 'ironpulse-vercel-demo-secret-change-me';
+
 export function signToken(user) {
   return jwt.sign(
     { id: user.id, role: user.role },
-    process.env.JWT_SECRET,
+    JWT_SECRET,
     { expiresIn: process.env.JWT_EXPIRES || '7d' }
   );
 }
@@ -25,7 +27,7 @@ export function requireAuth(req, res, next) {
     return res.status(401).json({ error: 'Please log in to continue.', code: 'NOT_LOGGED_IN' });
   }
   try {
-    const payload = jwt.verify(token, process.env.JWT_SECRET);
+    const payload = jwt.verify(token, JWT_SECRET);
     const user = db.users.findById(payload.id);
     if (!user || user.deactivated) {
       return res.status(401).json({ error: 'Your session has expired.', code: 'SESSION_EXPIRED' });
