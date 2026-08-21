@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "userId": 3,
+    "type": "welcome",
+    "title": "Welcome to IronPulse!",
+    "message": "Your personalised weekly workout plan is ready. Check Today’s Workout on your dashboard.",
+    "read": false,
+    "link": "/dashboard/workout"
+  },
+  {
+    "id": 2,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "userId": 3,
+    "type": "announcement",
+    "title": "Sunday is Rest Day",
+    "message": "Reminder: the gym is closed on Sundays. Recovery is part of the plan!",
+    "read": false
+  },
+  {
+    "id": 3,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "userId": 3,
+    "type": "workout",
+    "title": "Great session yesterday!",
+    "message": "You completed a Back + Biceps workout. Consistency is compounding — keep going.",
+    "read": true
+  }
+]

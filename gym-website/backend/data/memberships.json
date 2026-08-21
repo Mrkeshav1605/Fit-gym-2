@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.147Z",
+    "updatedAt": "2026-08-13T21:46:39.147Z",
+    "name": "BASIC",
+    "price": 999,
+    "currency": "₹",
+    "durationMonths": 1,
+    "popular": false,
+    "active": true,
+    "order": 1,
+    "description": "Everything you need to start training with confidence.",
+    "features": [
+      "Gym access",
+      "Full workout library",
+      "Machine guides",
+      "Weekly schedule",
+      "Basic progress tracking"
+    ]
+  },
+  {
+    "id": 2,
+    "createdAt": "2026-08-13T21:46:39.147Z",
+    "updatedAt": "2026-08-13T21:46:39.147Z",
+    "name": "PRO",
+    "price": 1999,
+    "currency": "₹",
+    "durationMonths": 1,
+    "popular": true,
+    "active": true,
+    "order": 2,
+    "description": "The complete smart-training experience for serious members.",
+    "features": [
+      "All BASIC features",
+      "Personalised workout plan",
+      "Smart workout recommendations",
+      "Advanced progress analytics",
+      "Attendance & QR check-in",
+      "Nutrition education"
+    ]
+  },
+  {
+    "id": 3,
+    "createdAt": "2026-08-13T21:46:39.147Z",
+    "updatedAt": "2026-08-13T21:46:39.147Z",
+    "name": "PREMIUM",
+    "price": 2999,
+    "currency": "₹",
+    "durationMonths": 1,
+    "popular": false,
+    "active": true,
+    "order": 3,
+    "description": "Everything in PRO, plus premium support and trainer time.",
+    "features": [
+      "All PRO features",
+      "Priority support",
+      "Trainer consultation option",
+      "Quarterly trainer check-in",
+      "Guest passes (2 / month)"
+    ]
+  }
+]

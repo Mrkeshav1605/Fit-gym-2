@@ -1,0 +1,150 @@
+/**
+ * Extra bodyweight / free exercises used by the workout engine,
+ * beyond the ones derived automatically from the machine database.
+ */
+export const extraExercises = [
+  {
+    name: 'Push-Up',
+    muscleGroup: 'Chest', secondaryMuscles: ['Arms', 'Core'],
+    equipmentType: 'Bodyweight', difficulty: 'Easy', popular: true,
+    instructions: 'Keep your body in one straight line from head to heels. Lower your chest to just above the floor and press back up. Lower to the knees if needed.',
+    safetyTip: 'Keep the core braced so the hips never sag.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '6–10', restSec: 60 },
+      intermediate: { sets: 3, reps: '10–15', restSec: 60 },
+      advanced: { sets: 4, reps: '15–20', restSec: 60 },
+    },
+  },
+  {
+    name: 'Bodyweight Squat',
+    muscleGroup: 'Legs', secondaryMuscles: ['Core'],
+    equipmentType: 'Bodyweight', difficulty: 'Easy', popular: true,
+    instructions: 'Feet shoulder-width, chest up. Sit down and back until the thighs are parallel, then stand. Perfect this before adding any load.',
+    safetyTip: 'Keep the knees tracking over the toes.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '10–15', restSec: 60 },
+      intermediate: { sets: 3, reps: '15–20', restSec: 60 },
+      advanced: { sets: 4, reps: '20–25', restSec: 60 },
+    },
+  },
+  {
+    name: 'Walking Lunge',
+    muscleGroup: 'Legs', secondaryMuscles: ['Core'],
+    equipmentType: 'Bodyweight', difficulty: 'Moderate', popular: false,
+    instructions: 'Step forward and lower the back knee toward the floor, then push off the front foot into the next step. Keep the torso upright.',
+    safetyTip: 'Take a long enough step that the front knee stays over the ankle.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '8–10 per leg', restSec: 75 },
+      intermediate: { sets: 3, reps: '10–12 per leg', restSec: 75 },
+      advanced: { sets: 4, reps: '12–15 per leg', restSec: 75 },
+    },
+  },
+  {
+    name: 'Plank',
+    muscleGroup: 'Core', secondaryMuscles: ['Shoulders'],
+    equipmentType: 'Bodyweight', difficulty: 'Easy', popular: true,
+    instructions: 'Forearms on the floor, elbows under shoulders, body in a straight line. Squeeze the glutes and abs; hold the position without letting the hips sag.',
+    safetyTip: 'Stop if your lower back starts to sag — form ends the set, not the clock.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '20–30 sec hold', restSec: 60 },
+      intermediate: { sets: 3, reps: '30–45 sec hold', restSec: 60 },
+      advanced: { sets: 4, reps: '45–60 sec hold', restSec: 60 },
+    },
+  },
+  {
+    name: 'Mountain Climber',
+    muscleGroup: 'Core', secondaryMuscles: ['Cardio'],
+    equipmentType: 'Bodyweight', difficulty: 'Moderate', popular: false,
+    instructions: 'From a high plank, drive one knee toward the chest and switch legs quickly, as if running in place. Keep the hips low.',
+    safetyTip: 'Keep the shoulders over the wrists and the core braced.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '20–30 sec', restSec: 60 },
+      intermediate: { sets: 3, reps: '30–45 sec', restSec: 45 },
+      advanced: { sets: 4, reps: '45–60 sec', restSec: 45 },
+    },
+  },
+  {
+    name: 'Crunch',
+    muscleGroup: 'Core', secondaryMuscles: [],
+    equipmentType: 'Bodyweight', difficulty: 'Easy', popular: false,
+    instructions: 'Lie on your back with knees bent. Curl the shoulders off the floor using the abs — the lower back stays on the ground. Lower slowly.',
+    safetyTip: 'Keep the hands light behind the head; never pull on the neck.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '12–15', restSec: 45 },
+      intermediate: { sets: 3, reps: '15–20', restSec: 45 },
+      advanced: { sets: 4, reps: '20–25', restSec: 45 },
+    },
+  },
+  {
+    name: 'Leg Raise',
+    muscleGroup: 'Core', secondaryMuscles: [],
+    equipmentType: 'Bodyweight', difficulty: 'Moderate', popular: false,
+    instructions: 'Lie on your back with legs straight. Raise the legs to vertical using the lower abs, then lower slowly without arching the back.',
+    safetyTip: 'Stop lowering when the lower back starts to lift off the floor.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '8–10', restSec: 60 },
+      intermediate: { sets: 3, reps: '10–12', restSec: 60 },
+      advanced: { sets: 4, reps: '12–15', restSec: 60 },
+    },
+  },
+  {
+    name: 'Jumping Jack',
+    muscleGroup: 'Full Body', secondaryMuscles: ['Cardio'],
+    equipmentType: 'Bodyweight', difficulty: 'Easy', popular: false,
+    instructions: 'Jump the feet wide while raising the arms overhead, then jump back to the start. Keep a light, springy rhythm.',
+    safetyTip: 'Land softly with bent knees.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '20–30 sec', restSec: 45 },
+      intermediate: { sets: 3, reps: '30–45 sec', restSec: 45 },
+      advanced: { sets: 4, reps: '45–60 sec', restSec: 45 },
+    },
+  },
+  {
+    name: 'Glute Bridge',
+    muscleGroup: 'Legs', secondaryMuscles: ['Core'],
+    equipmentType: 'Bodyweight', difficulty: 'Easy', popular: false,
+    instructions: 'Lie on your back with knees bent and feet flat. Drive through the heels to lift the hips until the body forms a straight line, squeeze the glutes, lower slowly.',
+    safetyTip: 'Push through the heels, not the toes.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '12–15', restSec: 60 },
+      intermediate: { sets: 3, reps: '15–20', restSec: 60 },
+      advanced: { sets: 4, reps: '15–20', restSec: 60 },
+    },
+  },
+  {
+    name: 'Burpee',
+    muscleGroup: 'Full Body', secondaryMuscles: ['Cardio'],
+    equipmentType: 'Bodyweight', difficulty: 'Advanced', popular: false,
+    instructions: 'Squat down, place the hands on the floor, kick the feet back to a plank, return the feet in, and jump up. Step instead of jumping if needed.',
+    safetyTip: 'Land softly and keep the core braced. Scale to a "step-back burpee" at any time.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '5–8', restSec: 60 },
+      intermediate: { sets: 3, reps: '8–12', restSec: 60 },
+      advanced: { sets: 4, reps: '12–15', restSec: 60 },
+    },
+  },
+  {
+    name: 'Russian Twist',
+    muscleGroup: 'Core', secondaryMuscles: [],
+    equipmentType: 'Bodyweight', difficulty: 'Moderate', popular: false,
+    instructions: 'Sit with knees bent and lean back slightly, keeping the back straight. Rotate the torso side to side, touching the floor beside each hip.',
+    safetyTip: 'Rotate from the torso, not the arms; keep the spine long.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '12–16 total', restSec: 45 },
+      intermediate: { sets: 3, reps: '16–20 total', restSec: 45 },
+      advanced: { sets: 4, reps: '20–24 total', restSec: 45 },
+    },
+  },
+  {
+    name: 'Goblet Squat',
+    muscleGroup: 'Legs', secondaryMuscles: ['Core'],
+    equipmentType: 'Dumbbell', difficulty: 'Easy', popular: true,
+    instructions: 'Hold a dumbbell or kettlebell against your chest and squat between your knees, keeping the chest proud. The front load teaches perfect squat posture.',
+    safetyTip: 'Keep the weight close to the chest; if the torso folds, go lighter.',
+    levelInfo: {
+      beginner: { sets: 3, reps: '10–12', restSec: 90 },
+      intermediate: { sets: 3, reps: '8–12', restSec: 90 },
+      advanced: { sets: 4, reps: '8–10', restSec: 90 },
+    },
+  },
+];

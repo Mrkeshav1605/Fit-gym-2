@@ -1,0 +1,2279 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Flat Bench Press",
+    "category": "Chest",
+    "muscleGroup": "Chest",
+    "targetMuscles": [
+      "Pectoralis major",
+      "Triceps brachii",
+      "Anterior deltoids"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Moderate",
+    "popular": true,
+    "description": "The classic horizontal pressing movement. Builds overall upper-body pushing strength with a barbell and bench. A foundational compound lift that also challenges the shoulders and triceps.",
+    "startingPosition": "Lie on a flat bench with your feet planted firmly on the floor. Grip the bar slightly wider than shoulder width and unrack it above your chest with straight arms.",
+    "steps": [
+      "Set the safety pins or ask for a spot before you unrack any working weight.",
+      "Lower the bar slowly to your mid-chest with elbows at about 45° from your body.",
+      "Touch the chest lightly — do not bounce the bar.",
+      "Press the bar back up in a straight line until your arms are extended.",
+      "Keep your shoulder blades squeezed together and feet grounded for every rep."
+    ],
+    "breathing": "Inhale as you lower the bar, exhale forcefully as you press it up.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 120,
+        "note": "Start with the empty bar or light dumbbells until the movement feels natural. Always use a spotter."
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": "6–10",
+        "restSec": 120,
+        "note": "Progress the load gradually (2.5 kg per side per week is plenty)."
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": "4–8",
+        "restSec": 180,
+        "note": "Consider periodisation and always keep a spotter for heavy sets."
+      }
+    },
+    "commonMistakes": [
+      "Bouncing the bar off the chest",
+      "Flaring the elbows too wide",
+      "Lifting the hips off the bench",
+      "Not using a spotter on heavy sets"
+    ],
+    "safetyTips": [
+      "Learn proper technique from a qualified trainer before performing this exercise independently.",
+      "Always use safety pins or a spotter.",
+      "Never attempt a maximum-weight lift without supervision."
+    ],
+    "whenToStop": [
+      "Sharp pain in the shoulder or chest",
+      "Loss of control of the bar",
+      "Dizziness or unusual breathlessness"
+    ],
+    "alternatives": [
+      "Chest Press Machine",
+      "Dumbbell Press",
+      "Push-Up"
+    ],
+    "tip": "A controlled 2-second lowering phase builds more strength than a fast drop — and is far safer.",
+    "slug": "flat-bench-press"
+  },
+  {
+    "id": 2,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Incline Bench Press",
+    "category": "Chest",
+    "muscleGroup": "Chest",
+    "targetMuscles": [
+      "Upper pectoralis major",
+      "Anterior deltoids",
+      "Triceps brachii"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Moderate",
+    "popular": false,
+    "description": "A bench press performed on a 30–45° incline to emphasise the upper chest and front shoulders. A staple for a balanced, strong chest.",
+    "startingPosition": "Lie on an incline bench set to 30–45°. Grip the bar slightly wider than shoulder width and unrack it above your upper chest.",
+    "steps": [
+      "Set the bench angle to 30–45° — steeper angles shift work to the shoulders.",
+      "Lower the bar under control to just below your collarbone.",
+      "Pause for a moment without bouncing.",
+      "Press back up and slightly back until arms are extended.",
+      "Keep your back against the pad and feet flat on the floor throughout."
+    ],
+    "breathing": "Inhale on the way down, exhale as you press up.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Use dumbbells or the Smith machine first if balancing the bar feels difficult."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "6–10",
+        "restSec": 120,
+        "note": "Alternate with flat pressing to develop the full chest."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "6–8",
+        "restSec": 150,
+        "note": "Keep a spotter for working sets near failure."
+      }
+    },
+    "commonMistakes": [
+      "Setting the bench too steep",
+      "Bouncing off the chest",
+      "Pressing from the shoulders only",
+      "Lowering the bar too quickly"
+    ],
+    "safetyTips": [
+      "Use a spotter or safety pins on heavy sets.",
+      "Stop if you feel pinching in the front of the shoulder."
+    ],
+    "whenToStop": [
+      "Sharp shoulder pain",
+      "Inability to control the descent"
+    ],
+    "alternatives": [
+      "Incline Dumbbell Press",
+      "Chest Press Machine",
+      "Push-Up with elevated feet"
+    ],
+    "tip": "Keep the angle at 30–45°. Beyond that it becomes a shoulder press.",
+    "slug": "incline-bench-press"
+  },
+  {
+    "id": 3,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Chest Press Machine",
+    "category": "Chest",
+    "muscleGroup": "Chest",
+    "targetMuscles": [
+      "Pectoralis major",
+      "Triceps brachii",
+      "Anterior deltoids"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "A guided horizontal press on a fixed path. Ideal for learning the pressing pattern safely and for controlled, stable chest work.",
+    "startingPosition": "Adjust the seat so the handles are level with your mid-chest. Sit with your back flat against the pad and grip the handles.",
+    "steps": [
+      "Adjust the seat so the handles align with your mid-chest.",
+      "Select an appropriate resistance.",
+      "Position your back against the pad and plant your feet.",
+      "Grip the handles comfortably.",
+      "Press the handles forward with controlled movement until arms are extended.",
+      "Return slowly to the start without letting the weight stack touch down."
+    ],
+    "breathing": "Exhale as you press forward, inhale as you return.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "A great first machine — master control before moving to free weights."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Use a slow 3-second return to increase time under tension."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Use as a finisher after free-weight pressing."
+      }
+    },
+    "commonMistakes": [
+      "Using excessive weight",
+      "Locking elbows aggressively",
+      "Losing control during the return",
+      "Poor seat adjustment"
+    ],
+    "safetyTips": [
+      "Use an appropriate resistance and stop if you experience sharp pain, dizziness, or unusual symptoms.",
+      "Never encourage unsafe maximum-weight lifting."
+    ],
+    "whenToStop": [
+      "Sharp shoulder or elbow pain",
+      "Inability to complete the return slowly"
+    ],
+    "alternatives": [
+      "Dumbbell Press",
+      "Flat Bench Press",
+      "Push-Up"
+    ],
+    "tip": "Return the handles until you feel a gentle chest stretch — no further.",
+    "slug": "chest-press-machine"
+  },
+  {
+    "id": 4,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Pec Deck",
+    "category": "Chest",
+    "muscleGroup": "Chest",
+    "targetMuscles": [
+      "Pectoralis major (sternal head)",
+      "Anterior deltoids"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "A seated fly movement that isolates the chest through a hugging motion. Excellent for building chest definition with minimal shoulder stress.",
+    "startingPosition": "Sit with your back flat, feet planted, and elbows placed against the pads at shoulder height, bent to about 90°.",
+    "steps": [
+      "Adjust the seat so your elbows and shoulders are in line.",
+      "Keep a slight bend in the elbows for the entire set.",
+      "Squeeze the pads together until they almost touch.",
+      "Pause and squeeze the chest for one second.",
+      "Open the arms slowly until you feel a gentle stretch across the chest."
+    ],
+    "breathing": "Exhale as the pads come together, inhale as they open.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use a light resistance and focus on feeling the chest stretch and squeeze."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Slow down the opening phase to about 3 seconds."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Use as a pre-exhaust or finisher exercise."
+      }
+    },
+    "commonMistakes": [
+      "Opening the arms too far past the chest line",
+      "Using momentum to swing the weight",
+      "Straightening the elbows",
+      "Rounding the shoulders forward"
+    ],
+    "safetyTips": [
+      "Never let the arms travel behind the line of the body — the stretch comes from the chest, not the shoulder joint.",
+      "Keep the movement smooth."
+    ],
+    "whenToStop": [
+      "Pain in the front of the shoulder",
+      "Clicking or catching in the shoulder joint"
+    ],
+    "alternatives": [
+      "Cable Crossover",
+      "Dumbbell Fly",
+      "Band Chest Fly"
+    ],
+    "tip": "Imagine hugging a barrel, not clapping — the elbows stay softly bent.",
+    "slug": "pec-deck"
+  },
+  {
+    "id": 5,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Cable Crossover",
+    "category": "Chest",
+    "muscleGroup": "Chest",
+    "targetMuscles": [
+      "Pectoralis major",
+      "Anterior deltoids",
+      "Core (stabilisation)"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Moderate",
+    "popular": true,
+    "description": "A standing cable fly with pulleys set high. Emphasises the inner chest and trains constant tension through the full range of motion.",
+    "startingPosition": "Set the pulleys to shoulder height or slightly above. Hold a handle in each hand, step forward into a staggered stance and lean slightly forward.",
+    "steps": [
+      "Set both pulleys at the same height.",
+      "Step forward so the cables are under light tension even at the start.",
+      "With a soft elbow bend, bring the handles together in front of your chest in an arc.",
+      "Squeeze the chest for one second at the meeting point.",
+      "Open the arms slowly, controlling the return, until you feel a stretch."
+    ],
+    "breathing": "Exhale as the hands meet, inhale as they open.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use light resistance and a slow, steady rhythm."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Vary pulley height between sets for a fuller chest stimulus."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Try a 2-second squeeze at the top of each rep."
+      }
+    },
+    "commonMistakes": [
+      "Bending and straightening the elbows to \"press\" the weight",
+      "Letting the shoulders roll forward",
+      "Using too much weight and swinging",
+      "Uneven pulley heights"
+    ],
+    "safetyTips": [
+      "Keep your core braced and spine neutral in the staggered stance.",
+      "Choose a resistance you can stop smoothly at any point."
+    ],
+    "whenToStop": [
+      "Shoulder discomfort during the stretch",
+      "Loss of balance"
+    ],
+    "alternatives": [
+      "Pec Deck",
+      "Dumbbell Fly",
+      "Band Crossover"
+    ],
+    "tip": "Fix the elbow angle once and move from the shoulder — the arm should never change shape during the rep.",
+    "slug": "cable-crossover"
+  },
+  {
+    "id": 6,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Lat Pulldown",
+    "category": "Back",
+    "muscleGroup": "Back",
+    "targetMuscles": [
+      "Latissimus dorsi",
+      "Biceps brachii",
+      "Rhomboids"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "A vertical pulling movement that builds the lats — the wide muscles that create the V-shape of the back. A beginner-friendly route toward pull-ups.",
+    "startingPosition": "Sit at the machine with your thighs secured under the pads. Grip the bar wider than shoulder width with palms facing forward, arms fully extended.",
+    "steps": [
+      "Adjust the thigh pads so you stay seated during the pull.",
+      "Grip the bar just wider than shoulder width.",
+      "Lean back slightly, keep the chest up, and pull the bar to your upper chest.",
+      "Drive the elbows down and back, not just the hands.",
+      "Pause for a second, then let the bar rise under control until the arms are straight."
+    ],
+    "breathing": "Exhale as you pull down, inhale as the bar rises.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Learn to feel the lats work; lighter is better than jerky."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Try a pause at the chest on every rep."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Slow the negative to 3 seconds for extra back growth."
+      }
+    },
+    "commonMistakes": [
+      "Pulling the bar behind the neck",
+      "Swinging the torso to move the weight",
+      "Using only the arms",
+      "Leaning back too far"
+    ],
+    "safetyTips": [
+      "Always pull to the front of the chest, never behind the neck.",
+      "Keep the movement controlled from start to finish."
+    ],
+    "whenToStop": [
+      "Sharp pain in the shoulders or elbows",
+      "Feeling of the shoulder \"popping\" during the pull"
+    ],
+    "alternatives": [
+      "Assisted Pull-Up",
+      "Seated Cable Row",
+      "Band Pulldown"
+    ],
+    "tip": "Think \"elbows into your back pockets\" — that cue turns the movement into a lat exercise.",
+    "slug": "lat-pulldown"
+  },
+  {
+    "id": 7,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Seated Cable Row",
+    "category": "Back",
+    "muscleGroup": "Back",
+    "targetMuscles": [
+      "Latissimus dorsi",
+      "Rhomboids",
+      "Trapezius",
+      "Biceps brachii"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "A horizontal pulling movement for mid-back thickness. The seated position keeps the spine supported, making it a safe rowing option for all levels.",
+    "startingPosition": "Sit with feet braced on the platform, knees slightly bent, back straight. Hold the handle with arms extended, chest up.",
+    "steps": [
+      "Sit tall with a neutral spine and soft knees.",
+      "Pull the handle toward your lower ribs.",
+      "Squeeze the shoulder blades together at the end of the pull.",
+      "Keep the elbows close to your sides.",
+      "Return slowly, letting the shoulders stretch forward without rounding the lower back."
+    ],
+    "breathing": "Exhale as you pull, inhale as you return.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Keep the torso still — if it moves, reduce the weight."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Pause for 1 second with the handle at the ribs."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Use different grips (narrow, wide) across sets."
+      }
+    },
+    "commonMistakes": [
+      "Rocking the torso back and forth",
+      "Rounding the lower back at the end of the return",
+      "Shrugging the shoulders",
+      "Pulling to the neck instead of the ribs"
+    ],
+    "safetyTips": [
+      "Keep the lower back neutral throughout — brace as if someone might push you.",
+      "Never yank the first rep; begin the pull smoothly."
+    ],
+    "whenToStop": [
+      "Sharp lower-back pain",
+      "Inability to keep the torso still"
+    ],
+    "alternatives": [
+      "T-Bar Row",
+      "Seated Machine Row",
+      "One-Arm Dumbbell Row"
+    ],
+    "tip": "Imagine pulling your elbows back, not your hands — this keeps the biceps from taking over.",
+    "slug": "seated-cable-row"
+  },
+  {
+    "id": 8,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Assisted Pull-Up",
+    "category": "Back",
+    "muscleGroup": "Back",
+    "targetMuscles": [
+      "Latissimus dorsi",
+      "Biceps brachii",
+      "Rhomboids",
+      "Core"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Moderate",
+    "popular": false,
+    "description": "The pull-up pattern with adjustable counterweight support. The best way to build the strength for full bodyweight pull-ups.",
+    "startingPosition": "Kneel or stand on the assist platform, grip the bar slightly wider than shoulder width, and let the counterweight support you with arms extended.",
+    "steps": [
+      "Select an assist level that lets you complete every rep with good form.",
+      "Start from a full hang with the chest up.",
+      "Pull until your chin reaches bar height.",
+      "Lower yourself slowly until the arms are fully straight.",
+      "Reduce the assistance over the weeks as you get stronger."
+    ],
+    "breathing": "Exhale as you pull up, inhale on the way down.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Choose generous assistance and prioritise a full range of motion."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "6–10",
+        "restSec": 120,
+        "note": "Lower the assistance each week until you can do unassisted reps."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "6–8",
+        "restSec": 120,
+        "note": "Add a slow 3-second negative on the last rep of each set."
+      }
+    },
+    "commonMistakes": [
+      "Not reaching a full hang at the bottom",
+      "Kicking the legs for momentum",
+      "Pulling to the nose instead of the chest",
+      "Rushing the negative"
+    ],
+    "safetyTips": [
+      "Grip firmly and step off the platform carefully after the set.",
+      "Keep the core engaged so the body does not swing."
+    ],
+    "whenToStop": [
+      "Sharp shoulder or elbow pain",
+      "Grip failure during a rep"
+    ],
+    "alternatives": [
+      "Lat Pulldown",
+      "Resistance Band Pull-Up",
+      "Inverted Row"
+    ],
+    "tip": "Full range of motion beats half reps — lower all the way to a dead hang every time.",
+    "slug": "assisted-pull-up"
+  },
+  {
+    "id": 9,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "T-Bar Row",
+    "category": "Back",
+    "muscleGroup": "Back",
+    "targetMuscles": [
+      "Latissimus dorsi",
+      "Rhomboids",
+      "Trapezius",
+      "Erector spinae"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Advanced",
+    "popular": false,
+    "description": "A supported bent-over row variation that allows heavy loading for mid-back thickness. The chest pad version keeps the lower back safe.",
+    "startingPosition": "Load the bar, place your chest on the pad (or hinge at the hips for the free version), grip the handles with a neutral grip and let the weight hang.",
+    "steps": [
+      "Keep your chest firmly on the pad for the entire set.",
+      "Start from a full stretch with the shoulder blades spread.",
+      "Row the weight up until the plates touch the chest pad.",
+      "Squeeze the shoulder blades together hard at the top.",
+      "Lower under control until the arms are straight."
+    ],
+    "breathing": "Exhale as you row, inhale as you lower.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Master the chest-pad version before trying the free-standing hinge."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 120,
+        "note": "Add a 1-second squeeze at the top of each rep."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "6–10",
+        "restSec": 150,
+        "note": "Progress load conservatively; form quality is the goal."
+      }
+    },
+    "commonMistakes": [
+      "Letting the chest lift off the pad",
+      "Using hip momentum",
+      "Cutting the range of motion short",
+      "Bouncing at the bottom"
+    ],
+    "safetyTips": [
+      "This is a heavier compound movement — learn proper technique from a qualified trainer before performing this exercise independently.",
+      "Keep the spine neutral; the pad should do the supporting."
+    ],
+    "whenToStop": [
+      "Lower-back pain",
+      "Inability to keep the chest on the pad"
+    ],
+    "alternatives": [
+      "Seated Cable Row",
+      "Chest-Supported Dumbbell Row",
+      "One-Arm Dumbbell Row"
+    ],
+    "tip": "Think \"pull with the elbows and squeeze at the top\" — the squeeze is where the back grows.",
+    "slug": "t-bar-row"
+  },
+  {
+    "id": 10,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Leg Press",
+    "category": "Legs",
+    "muscleGroup": "Legs",
+    "targetMuscles": [
+      "Quadriceps",
+      "Gluteus maximus",
+      "Hamstrings"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "A guided squat-pattern machine for lower-body strength. Supports the back while letting you train the legs hard.",
+    "startingPosition": "Sit with your back and hips flat against the pad. Place your feet shoulder-width on the platform and release the safety handles.",
+    "steps": [
+      "Adjust the seat so your knees stay at about 90° at the bottom.",
+      "Lower the platform until your knees approach your chest without the hips rolling up.",
+      "Keep your knees tracking in line with your toes.",
+      "Press through the whole foot back to the start without locking the knees hard.",
+      "Re-engage the safety handles before you get off."
+    ],
+    "breathing": "Inhale as you lower, exhale as you press.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 120,
+        "note": "Learn the depth that keeps your hips on the pad."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 120,
+        "note": "Vary foot placement: higher for glutes, lower for quads."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 150,
+        "note": "Use single-leg presses to address side-to-side differences."
+      }
+    },
+    "commonMistakes": [
+      "Locking the knees violently at the top",
+      "Letting the hips curl off the pad at the bottom",
+      "Placing the feet too low on the platform",
+      "Dropping the weight quickly"
+    ],
+    "safetyTips": [
+      "Never fully lock and snap the knees.",
+      "Always confirm the safety handles are engaged before loading or exiting."
+    ],
+    "whenToStop": [
+      "Knee pain that worsens during the press",
+      "Feeling of the hips lifting off the pad"
+    ],
+    "alternatives": [
+      "Smith Machine Squat",
+      "Goblet Squat",
+      "Leg Extension + Leg Curl"
+    ],
+    "tip": "A controlled 3-second lowering phase turns the leg press into a much more effective builder.",
+    "slug": "leg-press"
+  },
+  {
+    "id": 11,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Leg Extension",
+    "category": "Legs",
+    "muscleGroup": "Legs",
+    "targetMuscles": [
+      "Quadriceps"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "An isolation movement for the front of the thigh. Great for quad development, knee-friendly training, and finishing leg days.",
+    "startingPosition": "Sit with the back against the pad, the knee joint aligned with the machine axis, and the shin pad resting just above your ankles.",
+    "steps": [
+      "Adjust the seat so your knees line up with the pivot point of the machine.",
+      "Grip the handles for stability.",
+      "Extend your legs until they are straight, squeezing the quads.",
+      "Pause briefly at the top without locking out hard.",
+      "Lower slowly, controlling the weight all the way down."
+    ],
+    "breathing": "Exhale as you extend, inhale as you lower.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use light resistance and a full, smooth range of motion."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 75,
+        "note": "Slow the lowering phase to 3 seconds."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use as a pre-exhaust before squats or a finisher after."
+      }
+    },
+    "commonMistakes": [
+      "Kicking the weight up with momentum",
+      "Letting the hips lift off the seat",
+      "Only doing half range of motion",
+      "Setting the seat position poorly"
+    ],
+    "safetyTips": [
+      "If you have a history of knee issues, consult a qualified professional before adding load.",
+      "Keep the movement smooth — no jerking."
+    ],
+    "whenToStop": [
+      "Knee pain during the movement",
+      "Clicking accompanied by pain"
+    ],
+    "alternatives": [
+      "Bodyweight Squat",
+      "Wall Sit",
+      "Step-Up"
+    ],
+    "tip": "Point your toes up toward your knees during the lift for a stronger quad contraction.",
+    "slug": "leg-extension"
+  },
+  {
+    "id": 12,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Leg Curl",
+    "category": "Legs",
+    "muscleGroup": "Legs",
+    "targetMuscles": [
+      "Hamstrings",
+      "Calves (assistance)"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "An isolation movement for the back of the thigh. Balances the legs by strengthening the hamstrings that squats and leg presses miss.",
+    "startingPosition": "Lie face down (or sit, depending on the machine) with the knee joint aligned with the pivot and the pad resting above your heels.",
+    "steps": [
+      "Align your knees with the machine pivot.",
+      "Grip the handles and press your hips down into the pad.",
+      "Curl the pad toward your glutes in a smooth arc.",
+      "Squeeze the hamstrings at the top.",
+      "Lower slowly until the knees are almost straight."
+    ],
+    "breathing": "Exhale as you curl, inhale as you lower.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Keep the hips pressed down — do not let them rise."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Add a 1-second squeeze at the top."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Try one leg at a time to fix imbalances."
+      }
+    },
+    "commonMistakes": [
+      "Hips rising off the pad",
+      "Using momentum to swing the weight",
+      "Short range of motion",
+      "Curling too fast"
+    ],
+    "safetyTips": [
+      "Aim for the hamstrings to cramp-squeeze — not the lower back.",
+      "If you feel it in the calves or lower back, reduce the weight."
+    ],
+    "whenToStop": [
+      "Sharp hamstring pain",
+      "Lower-back discomfort"
+    ],
+    "alternatives": [
+      "Romanian Deadlift",
+      "Glute Bridge",
+      "Swiss Ball Leg Curl"
+    ],
+    "tip": "Think of dragging the pad with your heels for a stronger hamstring contraction.",
+    "slug": "leg-curl"
+  },
+  {
+    "id": 13,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Squat Rack",
+    "category": "Legs",
+    "muscleGroup": "Legs",
+    "targetMuscles": [
+      "Quadriceps",
+      "Gluteus maximus",
+      "Hamstrings",
+      "Core",
+      "Erector spinae"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Advanced",
+    "popular": true,
+    "description": "The king of lower-body movements: the barbell back squat. Builds total-body strength, posture, and athletic power. Must be learned with proper coaching.",
+    "startingPosition": "Set the bar at chest height, step under it with it resting on your upper back, grip it firmly, stand up, and walk two small steps back.",
+    "steps": [
+      "Set the safety pins just below your bottom position.",
+      "Brace your core as if preparing to be pushed.",
+      "Sit down and back, keeping your chest proud and knees tracking over the toes.",
+      "Descend until your thighs are at least parallel to the floor.",
+      "Drive up through the mid-foot to stand.",
+      "Re-rack by walking the bar into the uprights — never while fatigued and never jumping it in."
+    ],
+    "breathing": "Big inhale and brace before you descend, exhale as you pass the sticking point on the way up.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 150,
+        "note": "Learn the bodyweight and goblet squat first. Always squat inside a rack with pins."
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": "5–8",
+        "restSec": 180,
+        "note": "Film your sets from the side to check depth and bar path."
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": "3–6",
+        "restSec": 240,
+        "note": "Programme deload weeks and never train heavy without a spotter or pins."
+      }
+    },
+    "commonMistakes": [
+      "Knees collapsing inward",
+      "Heels lifting off the floor",
+      "Rounding the lower back",
+      "Half-depth squats with too much weight"
+    ],
+    "safetyTips": [
+      "Learn proper technique from a qualified trainer before performing this exercise independently.",
+      "Always squat inside a rack with the safety pins set correctly.",
+      "Never attempt unsafe maximum-weight lifts."
+    ],
+    "whenToStop": [
+      "Lower-back pain",
+      "Knee pain during the descent",
+      "Any feeling of losing balance with a loaded bar"
+    ],
+    "alternatives": [
+      "Leg Press",
+      "Goblet Squat",
+      "Smith Machine Squat"
+    ],
+    "tip": "Push the floor apart with your feet — this keeps the knees out and the glutes engaged.",
+    "slug": "squat-rack"
+  },
+  {
+    "id": 14,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Smith Machine",
+    "category": "Legs",
+    "muscleGroup": "Legs",
+    "targetMuscles": [
+      "Quadriceps",
+      "Gluteus maximus",
+      "Hamstrings"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Moderate",
+    "popular": true,
+    "description": "A barbell fixed on guided rails. Lets you train squat and press patterns safely with the bar path controlled, ideal for learning and for higher-rep leg work.",
+    "startingPosition": "For squats: set the bar at shoulder height on the rails, step under it, position it on your upper back, unrack with a wrist turn, and place your feet slightly forward.",
+    "steps": [
+      "Set the safety stops at a height just below your bottom position.",
+      "Stand with feet slightly forward of the bar line.",
+      "Descend until the thighs are parallel or lower.",
+      "Keep the torso upright — the guided bar allows a more vertical position.",
+      "Drive up through the whole foot and re-rack by rotating the hooks."
+    ],
+    "breathing": "Inhale and brace on the way down, exhale on the way up.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 120,
+        "note": "A great place to learn the squat pattern with less balance demand."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 120,
+        "note": "Combine with free-weight squats for the best of both worlds."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–12",
+        "restSec": 120,
+        "note": "Use for high-rep leg finishers when fatigued."
+      }
+    },
+    "commonMistakes": [
+      "Placing the feet directly under the bar (stresses the knees)",
+      "Not setting the safety stops",
+      "Bouncing at the bottom",
+      "Shallow depth"
+    ],
+    "safetyTips": [
+      "Always set the safety stops before you unrack.",
+      "Rotate the hooks fully and listen for the click when re-racking."
+    ],
+    "whenToStop": [
+      "Knee or lower-back pain",
+      "Fatigue that prevents controlled descent"
+    ],
+    "alternatives": [
+      "Leg Press",
+      "Goblet Squat",
+      "Barbell Squat (with coaching)"
+    ],
+    "tip": "Step slightly forward of the bar so the knees track naturally over the toes.",
+    "slug": "smith-machine"
+  },
+  {
+    "id": 15,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Calf Raise",
+    "category": "Legs",
+    "muscleGroup": "Legs",
+    "targetMuscles": [
+      "Gastrocnemius",
+      "Soleus"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "An isolation movement for the calves using a standing calf raise machine or the leg press. Builds lower-leg strength and ankle stability.",
+    "startingPosition": "Place the balls of your feet on the platform edge with heels hanging free. Position your shoulders under the pads (standing version) and stand tall.",
+    "steps": [
+      "Keep the knees straight but not locked.",
+      "Lower the heels slowly until you feel a deep stretch in the calves.",
+      "Pause for one second at the bottom.",
+      "Rise as high as possible onto the balls of the feet.",
+      "Hold the top squeeze for one second, then lower slowly."
+    ],
+    "breathing": "Inhale as you lower, exhale as you rise.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Bodyweight or light load, full range of motion."
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Add a 2-second pause at the bottom to remove the stretch reflex."
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Train calves 2–3 times per week — they recover quickly."
+      }
+    },
+    "commonMistakes": [
+      "Bouncing out of the bottom",
+      "Partial reps at the top only",
+      "Bending the knees excessively",
+      "Rushing the stretch"
+    ],
+    "safetyTips": [
+      "Use a full stretch but never a painful one.",
+      "Hold the machine handles for balance during heavy sets."
+    ],
+    "whenToStop": [
+      "Sharp Achilles or calf pain",
+      "Cramping that does not ease when you stop"
+    ],
+    "alternatives": [
+      "Leg Press Calf Raise",
+      "Single-Leg Calf Raise on a step",
+      "Seated Calf Raise"
+    ],
+    "tip": "The bottom stretch is where calves grow — slow it down and pause.",
+    "slug": "calf-raise"
+  },
+  {
+    "id": 16,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Shoulder Press",
+    "category": "Shoulders",
+    "muscleGroup": "Shoulders",
+    "targetMuscles": [
+      "Deltoids (all heads)",
+      "Triceps brachii",
+      "Upper trapezius"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "A guided overhead press that builds shoulder strength on a fixed path. Safer for beginners than free-weight pressing overhead.",
+    "startingPosition": "Adjust the seat so the handles are level with your ears. Sit back against the pad and grip the handles with palms forward.",
+    "steps": [
+      "Set the seat height so the handles start at ear level.",
+      "Press the handles overhead until the arms are extended but not locked hard.",
+      "Keep your lower back against the pad — no arching.",
+      "Lower slowly until the elbows are just below shoulder height.",
+      "Keep the wrists stacked over the elbows throughout."
+    ],
+    "breathing": "Exhale as you press up, inhale as you lower.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Start light; the shoulders respond best to controlled reps."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Slow the negative to 3 seconds."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Pair with lateral raises for complete shoulder development."
+      }
+    },
+    "commonMistakes": [
+      "Arching the lower back to press more",
+      "Locking out aggressively",
+      "Lowering the handles too far (past the ears)",
+      "Pressing unevenly side to side"
+    ],
+    "safetyTips": [
+      "Keep the back flat on the pad — if it leaves the pad, reduce the weight.",
+      "Stop immediately on any sharp pinching pain in the shoulder."
+    ],
+    "whenToStop": [
+      "Sharp shoulder pain or pinching",
+      "Numbness down the arm"
+    ],
+    "alternatives": [
+      "Dumbbell Shoulder Press",
+      "Barbell Overhead Press (with coaching)",
+      "Landmine Press"
+    ],
+    "tip": "Imagine pushing the machine away from you, not just the handles up.",
+    "slug": "shoulder-press"
+  },
+  {
+    "id": 17,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Lateral Raise Machine",
+    "category": "Shoulders",
+    "muscleGroup": "Shoulders",
+    "targetMuscles": [
+      "Deltoids (lateral head)",
+      "Supraspinatus"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "A guided side-raise movement that isolates the middle deltoid — the muscle that creates shoulder width.",
+    "startingPosition": "Sit with your upper arms against the pads, elbows bent at about 90°, torso tall against the backrest.",
+    "steps": [
+      "Adjust the seat so the machine pivot aligns with your shoulder joint.",
+      "Raise your upper arms out to the sides until they are level with your shoulders.",
+      "Lead with the elbows, not the hands.",
+      "Pause briefly at shoulder height.",
+      "Lower slowly, resisting the weight all the way down."
+    ],
+    "breathing": "Exhale as you raise, inhale as you lower.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Light weight, perfect form — the lateral head is small but proud."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Add a 1-second hold at the top."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Drop sets work brilliantly here — but keep every rep clean."
+      }
+    },
+    "commonMistakes": [
+      "Raising above shoulder height",
+      "Shrugging the traps up",
+      "Swinging the torso",
+      "Gripping too hard and leading with the hands"
+    ],
+    "safetyTips": [
+      "Stop at shoulder height — higher turns it into a trap shrug and stresses the joint.",
+      "Keep the neck relaxed."
+    ],
+    "whenToStop": [
+      "Pinching pain at the top of the range",
+      "Neck strain"
+    ],
+    "alternatives": [
+      "Cable Lateral Raise",
+      "Dumbbell Lateral Raise",
+      "Band Lateral Raise"
+    ],
+    "tip": "Imagine pouring water from a jug at the top — pinky slightly up, elbow leading.",
+    "slug": "lateral-raise-machine"
+  },
+  {
+    "id": 18,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Cable Lateral Raise",
+    "category": "Shoulders",
+    "muscleGroup": "Shoulders",
+    "targetMuscles": [
+      "Deltoids (lateral head)"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Moderate",
+    "popular": false,
+    "description": "A cable version of the lateral raise that keeps tension on the muscle through the whole range — even at the bottom where dumbbells go light.",
+    "startingPosition": "Set the pulley at the lowest position. Stand side-on to the stack, holding the handle in the far hand with the cable crossing in front of your legs.",
+    "steps": [
+      "Stand tall with a soft bend in the elbow.",
+      "Raise the arm out to the side to shoulder height in a smooth arc.",
+      "Keep the wrist neutral — the cable does the work, not the hand.",
+      "Pause for a beat at the top.",
+      "Lower slowly; the cable stays loaded even at the bottom."
+    ],
+    "breathing": "Exhale as you raise, inhale as you lower.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Stand far enough from the stack that the cable is never slack."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Slightly lean away from the stack for a longer lever arm."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Try the \"behind the back\" setup for a stronger stretch."
+      }
+    },
+    "commonMistakes": [
+      "Letting the cable go slack at the bottom",
+      "Shrugging the shoulder up",
+      "Bending the elbow during the rep",
+      "Using torso momentum"
+    ],
+    "safetyTips": [
+      "Keep the shoulder down and away from the ear throughout.",
+      "Choose a weight that allows a full stop at the top."
+    ],
+    "whenToStop": [
+      "Pinching in the shoulder joint",
+      "Neck or trap cramping"
+    ],
+    "alternatives": [
+      "Lateral Raise Machine",
+      "Dumbbell Lateral Raise",
+      "Band Lateral Raise"
+    ],
+    "tip": "The bottom half of the rep matters here — control the cable, never let it yank you.",
+    "slug": "cable-lateral-raise"
+  },
+  {
+    "id": 19,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Biceps Curl Machine",
+    "category": "Arms",
+    "muscleGroup": "Arms",
+    "targetMuscles": [
+      "Biceps brachii",
+      "Brachialis",
+      "Forearms"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "A guided curl that isolates the biceps on a fixed path. Perfect for learning the curl pattern and for high-quality finishing sets.",
+    "startingPosition": "Sit with your chest against the pad and upper arms resting fully on the support. Grip the handles with palms facing up.",
+    "steps": [
+      "Adjust the seat so your elbows align with the machine pivot.",
+      "Curl the handles up until the biceps are fully contracted.",
+      "Squeeze hard for one second at the top.",
+      "Lower slowly until the arms are nearly straight.",
+      "Keep the upper arms glued to the pad at all times."
+    ],
+    "breathing": "Exhale as you curl up, inhale as you lower.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "The machine teaches the curl groove before free weights."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 60,
+        "note": "Slow negatives (3 seconds) transform this exercise."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Use as the final biceps exercise on arm day."
+      }
+    },
+    "commonMistakes": [
+      "Lifting the elbows off the pad",
+      "Swinging the torso",
+      "Dropping the weight on the way down",
+      "Curling the wrists"
+    ],
+    "safetyTips": [
+      "Keep the wrists straight — curling the wrists shifts stress to the forearms.",
+      "Reduce the weight if you cannot lower it slowly."
+    ],
+    "whenToStop": [
+      "Sharp elbow pain",
+      "Wrist discomfort"
+    ],
+    "alternatives": [
+      "Cable Curl",
+      "Dumbbell Curl",
+      "Hammer Curl"
+    ],
+    "tip": "On the way down, imagine unrolling the arm slowly — the negative builds biceps strength.",
+    "slug": "biceps-curl-machine"
+  },
+  {
+    "id": 20,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Cable Curl",
+    "category": "Arms",
+    "muscleGroup": "Arms",
+    "targetMuscles": [
+      "Biceps brachii",
+      "Brachialis"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "A cable curl with constant tension from bottom to top. The cable keeps the biceps working even at the top where dumbbells rest.",
+    "startingPosition": "Attach a straight or EZ bar to the low pulley. Stand tall with elbows pinned to your sides and the bar resting at your thighs.",
+    "steps": [
+      "Stand close enough that the cable is taut at the bottom.",
+      "Curl the bar to your shoulders without moving the elbows.",
+      "Squeeze the biceps at the top for one second.",
+      "Lower slowly, fighting the cable all the way down.",
+      "Keep the torso upright — no leaning back."
+    ],
+    "breathing": "Exhale as you curl, inhale as you lower.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "The constant tension teaches you to feel the biceps working."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Step back slightly for tension through the full range."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Finish with a 10-second isometric hold at 90°. "
+      }
+    },
+    "commonMistakes": [
+      "Elbows drifting forward and up",
+      "Leaning back to move the weight",
+      "Partial reps",
+      "Letting the stack slam down"
+    ],
+    "safetyTips": [
+      "Elbows stay pinned — if they move, the shoulders take over.",
+      "Control the return; never let the weight stack drop."
+    ],
+    "whenToStop": [
+      "Elbow pain during the curl",
+      "Wrist strain"
+    ],
+    "alternatives": [
+      "Biceps Curl Machine",
+      "Dumbbell Curl",
+      "EZ-Bar Curl"
+    ],
+    "tip": "Imagine curling the bar toward your face while your elbows stay nailed to your ribs.",
+    "slug": "cable-curl"
+  },
+  {
+    "id": 21,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Triceps Pushdown",
+    "category": "Arms",
+    "muscleGroup": "Arms",
+    "targetMuscles": [
+      "Triceps brachii (lateral head)",
+      "Anconeus"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "The classic cable pushdown for the triceps — the muscle that makes up two-thirds of upper-arm size. Simple, safe, and highly effective.",
+    "startingPosition": "Attach a rope or bar to the high pulley. Stand facing the stack with elbows pinned to your sides, forearms parallel to the floor.",
+    "steps": [
+      "Grip the rope or bar with the elbows glued to your ribs.",
+      "Push down until the arms are fully extended.",
+      "Split the rope ends apart at the bottom if using a rope.",
+      "Squeeze the triceps for one second.",
+      "Let the forearms rise until the elbows are at about 90° — no higher."
+    ],
+    "breathing": "Exhale as you push down, inhale on the return.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Light weight, strict form, full lockout on every rep."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Add a pause at the bottom of each rep."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Use as a finisher with a controlled 3-second negative."
+      }
+    },
+    "commonMistakes": [
+      "Elbows flaring out from the body",
+      "Leaning over the cable to push more",
+      "Partial lockouts",
+      "Shoulders rounding forward"
+    ],
+    "safetyTips": [
+      "Stand tall; if you must lean, the weight is too heavy.",
+      "Keep the wrists straight throughout."
+    ],
+    "whenToStop": [
+      "Elbow pain at lockout",
+      "Shoulder discomfort"
+    ],
+    "alternatives": [
+      "Triceps Extension",
+      "Overhead Cable Extension",
+      "Close-Grip Push-Up"
+    ],
+    "tip": "Lock out fully and squeeze — the last inch of the pushdown is the most valuable part.",
+    "slug": "triceps-pushdown"
+  },
+  {
+    "id": 22,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Triceps Extension",
+    "category": "Arms",
+    "muscleGroup": "Arms",
+    "targetMuscles": [
+      "Triceps brachii (long head)"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Moderate",
+    "popular": false,
+    "description": "An overhead cable extension that stretches the triceps long head — the part of the triceps most visible from the side. Great for complete arm development.",
+    "startingPosition": "Attach a rope to the low pulley. Face away, hold the rope behind your head, and hinge slightly forward with elbows pointing up.",
+    "steps": [
+      "Keep the elbows high and pointing forward, close to your ears.",
+      "Extend the arms until they are straight overhead.",
+      "Squeeze the triceps at full lockout.",
+      "Return slowly until the forearms fold back down — feel the stretch.",
+      "Keep the upper arms completely still throughout."
+    ],
+    "breathing": "Exhale as you extend, inhale as you return.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Start with a light load; the overhead position feels unusual at first."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Pause for a second in the stretched position."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Use a slow 3-second stretch on the way down."
+      }
+    },
+    "commonMistakes": [
+      "Elbows drifting out to the sides",
+      "Turning it into a lat pulldown",
+      "Short range of motion",
+      "Arching the lower back"
+    ],
+    "safetyTips": [
+      "Brace the core to protect the lower back in the hinged position.",
+      "Stop if you feel shoulder discomfort overhead."
+    ],
+    "whenToStop": [
+      "Shoulder pain in the overhead position",
+      "Lower-back strain"
+    ],
+    "alternatives": [
+      "Triceps Pushdown",
+      "Overhead Dumbbell Extension",
+      "Bench Dips (with care)"
+    ],
+    "tip": "The stretch at the bottom is the goal — take your time getting there.",
+    "slug": "triceps-extension"
+  },
+  {
+    "id": 23,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Treadmill",
+    "category": "Cardio",
+    "muscleGroup": "Cardio",
+    "targetMuscles": [
+      "Legs",
+      "Heart and lungs (cardiovascular system)"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "The most popular cardio machine in the gym. Walking, jogging, or running — the treadmill scales to any fitness level and builds endurance.",
+    "startingPosition": "Stand on the side rails, start the belt at a slow speed, and step on once it is moving. Keep your body upright and eyes forward.",
+    "steps": [
+      "Always start at a slow speed and step on carefully.",
+      "Walk or jog with a tall posture — no leaning on the handrails.",
+      "Gradually increase speed or incline to your target intensity.",
+      "Use the \"talk test\": you should be able to speak short sentences.",
+      "Cool down with 2–3 minutes of easy walking before stepping off."
+    ],
+    "breathing": "Breathe rhythmically — in through the nose, out through the mouth. If you cannot talk, slow down.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 1,
+        "reps": "15–25 min brisk walk or walk-jog",
+        "restSec": 0,
+        "note": "Aim for a pace where conversation is possible. Add incline for intensity without speed."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "25–35 min steady jog or intervals",
+        "restSec": 0,
+        "note": "Try 1 minute faster / 1 minute easier repeats."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "30–45 min run or hill intervals",
+        "restSec": 0,
+        "note": "Mix incline walking and tempo runs across the week."
+      }
+    },
+    "commonMistakes": [
+      "Holding the handrails while walking",
+      "Stepping off while the belt is still moving",
+      "Starting too fast",
+      "Slouching and watching the feet"
+    ],
+    "safetyTips": [
+      "Use the emergency stop clip.",
+      "Never step onto a moving belt at speed.",
+      "Stop if you feel chest pain, dizziness, or unusual breathlessness."
+    ],
+    "whenToStop": [
+      "Chest pain or pressure",
+      "Dizziness or light-headedness",
+      "Pain in the knees that worsens with each step"
+    ],
+    "alternatives": [
+      "Cross Trainer",
+      "Exercise Bike",
+      "Outdoor Walk or Jog"
+    ],
+    "tip": "A 1–2% incline mimics outdoor walking and is easier on the knees.",
+    "slug": "treadmill"
+  },
+  {
+    "id": 24,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Cross Trainer",
+    "category": "Cardio",
+    "muscleGroup": "Cardio",
+    "targetMuscles": [
+      "Legs",
+      "Shoulders and arms (with handles)",
+      "Heart and lungs"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "Also called an elliptical. A low-impact, full-body cardio machine that protects the joints while raising the heart rate.",
+    "startingPosition": "Step on the largest pedal first, grip the handles, and begin pedalling smoothly. Keep your torso tall.",
+    "steps": [
+      "Start pedalling to wake the console, then choose your programme.",
+      "Keep a tall posture with a light grip on the handles.",
+      "Push and pull the handles to involve the upper body.",
+      "Maintain a smooth, gliding rhythm — no bouncing.",
+      "Gradually increase resistance rather than only speed."
+    ],
+    "breathing": "Steady, rhythmic breathing. You should be able to hold a conversation.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 1,
+        "reps": "15–25 min at moderate resistance",
+        "restSec": 0,
+        "note": "Focus on a smooth stroke before adding resistance."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "25–35 min with interval bursts",
+        "restSec": 0,
+        "note": "Alternate 2 minutes easy / 2 minutes hard."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "30–45 min high-resistance session",
+        "restSec": 0,
+        "note": "Use the programmes or manual intervals for variety."
+      }
+    },
+    "commonMistakes": [
+      "Leaning heavily on the handles",
+      "Pedalling with locked knees",
+      "Bouncing in the stride",
+      "Going too fast with no resistance"
+    ],
+    "safetyTips": [
+      "Use the step platforms when getting on and off.",
+      "Keep knees tracking in line with the toes."
+    ],
+    "whenToStop": [
+      "Knee or hip pain",
+      "Dizziness or chest discomfort"
+    ],
+    "alternatives": [
+      "Treadmill",
+      "Rowing Machine",
+      "Exercise Bike"
+    ],
+    "tip": "Increase resistance before speed — that is where the fitness benefit lives.",
+    "slug": "cross-trainer"
+  },
+  {
+    "id": 25,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Exercise Bike",
+    "category": "Cardio",
+    "muscleGroup": "Cardio",
+    "targetMuscles": [
+      "Quadriceps",
+      "Calves",
+      "Heart and lungs"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "A seated, joint-friendly way to build lower-body endurance and cardiovascular fitness. Great for beginners and for active recovery days.",
+    "startingPosition": "Adjust the seat so your knee has a slight bend at the bottom of the pedal stroke. Sit tall with a light grip on the bars.",
+    "steps": [
+      "Adjust the seat height first — a slight knee bend at the bottom.",
+      "Pedal at a comfortable cadence for a 3-minute warm-up.",
+      "Build to your target resistance and pace.",
+      "Keep the hips still — no rocking side to side.",
+      "Cool down with 2–3 minutes of easy spinning."
+    ],
+    "breathing": "Steady breathing; the \"talk test\" is your intensity guide.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 1,
+        "reps": "15–25 min steady ride",
+        "restSec": 0,
+        "note": "Comfortable resistance, steady cadence around 60–70 rpm."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "25–35 min with hill intervals",
+        "restSec": 0,
+        "note": "Raise resistance for 2 minutes, recover for 2, repeat."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "35–45 min mixed intervals",
+        "restSec": 0,
+        "note": "Combine seated and standing climbs for intensity."
+      }
+    },
+    "commonMistakes": [
+      "Seat set too low or too high",
+      "Rocking the hips",
+      "Death-gripping the bars",
+      "Pedalling slowly at huge resistance"
+    ],
+    "safetyTips": [
+      "Check the pedals are secure before riding.",
+      "Stop if you feel knee pain during the stroke."
+    ],
+    "whenToStop": [
+      "Knee pain",
+      "Chest pain or dizziness"
+    ],
+    "alternatives": [
+      "Cross Trainer",
+      "Rowing Machine",
+      "Treadmill"
+    ],
+    "tip": "Your hips should stay perfectly still — if they rock, the seat is too high.",
+    "slug": "exercise-bike"
+  },
+  {
+    "id": 26,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Rowing Machine",
+    "category": "Cardio",
+    "muscleGroup": "Cardio",
+    "targetMuscles": [
+      "Back",
+      "Legs",
+      "Core",
+      "Arms",
+      "Heart and lungs"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Moderate",
+    "popular": true,
+    "description": "A full-body cardio machine that works the legs, back, and arms in one smooth stroke. Excellent for posture and total-body conditioning.",
+    "startingPosition": "Sit on the seat, strap your feet in, and grip the handle. Start with knees bent, shins vertical, arms extended, and torso leaning slightly forward.",
+    "steps": [
+      "The stroke order is: legs → body → arms.",
+      "Drive with the legs first while the arms stay straight.",
+      "Lean back slightly as the legs finish, then pull the handle to your ribs.",
+      "Return in reverse: arms out, body over, knees bend.",
+      "Keep the chain level and the movement smooth — no jerking."
+    ],
+    "breathing": "Exhale on the drive, inhale on the recovery. The recovery should be roughly twice as long as the drive.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 1,
+        "reps": "10–15 min technique-focused rowing",
+        "restSec": 0,
+        "note": "Learn the stroke order before chasing speed."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "20–30 min steady or intervals",
+        "restSec": 0,
+        "note": "Aim for 22–26 strokes per minute for endurance."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "30–40 min mixed pace",
+        "restSec": 0,
+        "note": "Add 250 m sprints with 1-minute rests."
+      }
+    },
+    "commonMistakes": [
+      "Pulling with the arms too early",
+      "Sliding the seat before the legs finish",
+      "Rounding the back",
+      "Rowing with a very fast, sloppy rhythm"
+    ],
+    "safetyTips": [
+      "Keep the back straight — the power comes from the legs.",
+      "Stop if your lower back tightens painfully."
+    ],
+    "whenToStop": [
+      "Lower-back pain",
+      "Dizziness or chest discomfort"
+    ],
+    "alternatives": [
+      "Cross Trainer",
+      "Exercise Bike",
+      "Treadmill"
+    ],
+    "tip": "Think \"legs, body, arms — arms, body, legs\". The order is everything.",
+    "slug": "rowing-machine"
+  },
+  {
+    "id": 27,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Stair Climber",
+    "category": "Cardio",
+    "muscleGroup": "Cardio",
+    "targetMuscles": [
+      "Glutes",
+      "Quadriceps",
+      "Calves",
+      "Heart and lungs"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Moderate",
+    "popular": false,
+    "description": "A continuously revolving staircase that delivers a serious lower-body burn and a big cardiovascular challenge in a short time.",
+    "startingPosition": "Step on at the lowest speed, grip the rails lightly, and stand tall with your whole foot landing on each step.",
+    "steps": [
+      "Start at a slow speed to find your rhythm.",
+      "Stand tall — do not lean your weight on the handrails.",
+      "Place the whole foot on each step, not just the toes.",
+      "Gradually increase speed to your target level.",
+      "Cool down for 2–3 minutes at a slow pace before stepping off."
+    ],
+    "breathing": "Deep, steady breaths. This machine is intense — slow the speed if you are gasping.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 1,
+        "reps": "10–15 min slow climb",
+        "restSec": 0,
+        "note": "Hold the rails lightly for balance only."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "20–30 min steady climb",
+        "restSec": 0,
+        "note": "Keep hands off the rails as much as possible."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "25–35 min interval climbs",
+        "restSec": 0,
+        "note": "Alternate 2 minutes hard / 2 minutes recovery."
+      }
+    },
+    "commonMistakes": [
+      "Leaning the whole upper body on the rails",
+      "Stepping only on the toes",
+      "Slouching forward",
+      "Going too fast too soon"
+    ],
+    "safetyTips": [
+      "Hold the rails if you feel unsteady — safety first.",
+      "Step off only when the machine is at the slowest speed."
+    ],
+    "whenToStop": [
+      "Knee pain",
+      "Dizziness or nausea",
+      "Chest discomfort"
+    ],
+    "alternatives": [
+      "Treadmill Incline Walk",
+      "Exercise Bike",
+      "Cross Trainer"
+    ],
+    "tip": "Hands barely touching the rails doubles the work of the glutes and core.",
+    "slug": "stair-climber"
+  },
+  {
+    "id": 28,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Dumbbells",
+    "category": "Free Weights",
+    "muscleGroup": "Full Body",
+    "targetMuscles": [
+      "Every muscle group (used in dozens of exercises)"
+    ],
+    "equipmentType": "Dumbbell",
+    "difficulty": "Easy",
+    "popular": true,
+    "description": "The most versatile equipment in the gym. Dumbbells train each side independently, fix imbalances, and offer endless exercise variety for every muscle.",
+    "startingPosition": "Choose a weight you can control for the full set. For any dumbbell exercise, keep the wrists neutral and the core braced.",
+    "steps": [
+      "Pick a weight you can lift with perfect form for every rep.",
+      "Set your body position for the exercise first, then lift.",
+      "Move through a full range of motion.",
+      "Keep both sides moving evenly — dumbbells expose imbalances.",
+      "Return the dumbbells to the rack, never drop them on the floor."
+    ],
+    "breathing": "Exhale on the effort, inhale on the return — for every exercise.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Master the basic moves: press, row, curl, squat, lunge."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Progress weight in small jumps — 2 kg is a real jump for small muscles."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Use unilateral work (one side at a time) to fix weaknesses."
+      }
+    },
+    "commonMistakes": [
+      "Choosing weights that are too heavy to control",
+      "Using momentum and swinging",
+      "Dropping weights on the floor",
+      "Uneven range of motion side to side"
+    ],
+    "safetyTips": [
+      "Never drop dumbbells — lower them safely to the floor or rack.",
+      "Start light on any new exercise until the technique is solid."
+    ],
+    "whenToStop": [
+      "Loss of form mid-set",
+      "Joint pain during a lift"
+    ],
+    "alternatives": [
+      "Barbells",
+      "Kettlebells",
+      "Cable Machines"
+    ],
+    "tip": "If you cannot lower a weight slowly, it is too heavy — control is the secret to results.",
+    "slug": "dumbbells"
+  },
+  {
+    "id": 29,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Barbells",
+    "category": "Free Weights",
+    "muscleGroup": "Full Body",
+    "targetMuscles": [
+      "Every muscle group (compound lifts)"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Advanced",
+    "popular": true,
+    "description": "The heart of strength training. Barbells allow the heaviest loads and the biggest compound movements: squats, deadlifts, presses, and rows.",
+    "startingPosition": "Learn each lift with an empty bar first. Always train inside a rack with safeties for squats and presses.",
+    "steps": [
+      "Learn each barbell lift with an empty bar or PVC pipe first.",
+      "Set up the rack, safeties, and collars before loading plates.",
+      "Load plates evenly on both sides and secure the collars.",
+      "Brace hard before every rep of every set.",
+      "Re-rack carefully and strip the bar when finished."
+    ],
+    "breathing": "Brace with a big breath before each rep; exhale after the sticking point.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 150,
+        "note": "Learn proper technique from a qualified trainer before performing barbell lifts independently."
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": "5–8",
+        "restSec": 180,
+        "note": "Progress by adding small, consistent weight jumps."
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": "3–6",
+        "restSec": 240,
+        "note": "Periodise your training and schedule regular deload weeks."
+      }
+    },
+    "commonMistakes": [
+      "Skipping the warm-up sets",
+      "Loading plates unevenly",
+      "No collars on the bar",
+      "Ego-lifting beyond controlled technique"
+    ],
+    "safetyTips": [
+      "Learn proper technique from a qualified trainer before performing these exercises independently.",
+      "Always use collars and safeties. Never attempt unsafe maximum-weight lifts.",
+      "Train with a spotter on heavy sets."
+    ],
+    "whenToStop": [
+      "Any sharp pain during a lift",
+      "Inability to maintain a neutral spine"
+    ],
+    "alternatives": [
+      "Dumbbells",
+      "Smith Machine",
+      "Cable Machines"
+    ],
+    "tip": "The empty bar is not embarrassing — it is the smartest tool you own for learning movement.",
+    "slug": "barbells"
+  },
+  {
+    "id": 30,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Kettlebells",
+    "category": "Free Weights",
+    "muscleGroup": "Full Body",
+    "targetMuscles": [
+      "Glutes",
+      "Core",
+      "Shoulders",
+      "Back",
+      "Cardiovascular system"
+    ],
+    "equipmentType": "Kettlebell",
+    "difficulty": "Moderate",
+    "popular": false,
+    "description": "Cannonball-shaped weights with a handle, built for flowing, full-body movements like swings, goblet squats, and carries. Strength and conditioning in one tool.",
+    "startingPosition": "Start with light kettlebells. For most lifts, set the feet shoulder-width, brace the core, and keep the back neutral.",
+    "steps": [
+      "Choose a light bell and learn the movement pattern without load first.",
+      "Keep the back neutral — the hips do the hinging, not the spine.",
+      "Move smoothly; kettlebell work is about flow, not jerking.",
+      "Set the bell down carefully between sets, never drop it.",
+      "Progress in skill (harder movements) before progressing in weight."
+    ],
+    "breathing": "Exhale forcefully on the effort (the top of a swing, the press lockout), inhale on the way down.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Master the goblet squat and deadlift pattern first."
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": "10–15 swings or 8–10 reps",
+        "restSec": 90,
+        "note": "Learn the two-hand swing with light weight before anything else."
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": "15–20 swings or timed sets",
+        "restSec": 60,
+        "note": "Progress to cleans, snatches, and Turkish get-ups only with coaching."
+      }
+    },
+    "commonMistakes": [
+      "Squatting the swing instead of hinging",
+      "Rounding the lower back",
+      "Using the arms to lift instead of the hips",
+      "Dropping the bell on the floor"
+    ],
+    "safetyTips": [
+      "Learn kettlebell technique from a qualified trainer — especially ballistic moves like the swing.",
+      "Give yourself space: check the area around you before swinging."
+    ],
+    "whenToStop": [
+      "Lower-back pain during swings",
+      "Losing control of the bell"
+    ],
+    "alternatives": [
+      "Dumbbells",
+      "Barbells",
+      "Cable Machines"
+    ],
+    "tip": "The swing is a hip hinge, not a squat — the bell floats, the hips snap.",
+    "slug": "kettlebells"
+  },
+  {
+    "id": 31,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Weight Plates",
+    "category": "Free Weights",
+    "muscleGroup": "Full Body",
+    "targetMuscles": [
+      "Every muscle group (loaded carries, plate exercises)"
+    ],
+    "equipmentType": "Other",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "Weight plates are not just for loading barbells — they are training tools themselves for carries, twists, presses, and core work.",
+    "startingPosition": "Grip the plate firmly at the edges or through the centre hole, depending on the exercise.",
+    "steps": [
+      "Choose a plate size you can handle comfortably.",
+      "Keep the plate close to the body when carrying or pressing.",
+      "Move slowly and deliberately — plate work rewards control.",
+      "Return plates to the storage tree when done."
+    ],
+    "breathing": "Exhale on effort, inhale on the return.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 60,
+        "note": "Try plate goblet squats, plate rows, and short carries."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "30–40 m carries or 10–15 reps",
+        "restSec": 75,
+        "note": "Add overhead plate carries for core and shoulder stability."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "40–50 m carries or 12–15 reps",
+        "restSec": 60,
+        "note": "Combine carries with squats or lunges for conditioning."
+      }
+    },
+    "commonMistakes": [
+      "Letting the plate pull the shoulders forward on carries",
+      "Using a plate that is too heavy to press overhead safely",
+      "Dropping plates on the floor",
+      "Leaving plates scattered on equipment"
+    ],
+    "safetyTips": [
+      "Always re-rack plates on the storage tree.",
+      "Press plates overhead only with a weight you can control."
+    ],
+    "whenToStop": [
+      "Shoulder pain during overhead work",
+      "Loss of grip during carries"
+    ],
+    "alternatives": [
+      "Kettlebells",
+      "Dumbbells",
+      "Medicine Balls"
+    ],
+    "tip": "A plate carry is one of the best core exercises nobody does — walk tall and breathe.",
+    "slug": "weight-plates"
+  },
+  {
+    "id": 32,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Ab Crunch Machine",
+    "category": "Core",
+    "muscleGroup": "Core",
+    "targetMuscles": [
+      "Rectus abdominis",
+      "Obliques"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "description": "A guided crunch machine that trains the abs with resistance on a fixed path. Easy on the neck and lower back when set up correctly.",
+    "startingPosition": "Sit with your chest against the pad (or grip the handles overhead, depending on the design). Adjust the seat so the pivot aligns with your waist.",
+    "steps": [
+      "Adjust the seat so the machine pivot sits at your waistline.",
+      "Curl your torso forward by contracting the abs.",
+      "Exhale fully as you crunch.",
+      "Pause for a second in the contracted position.",
+      "Return slowly without letting the weight stack drop."
+    ],
+    "breathing": "Exhale hard as you crunch, inhale as you return.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Light resistance — feel the abs working, not the hips."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Add a pause at the contraction point."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use as a finisher after compound core work."
+      }
+    },
+    "commonMistakes": [
+      "Pulling with the arms or hips instead of the abs",
+      "Rounding the lower back under load",
+      "Crunching too far",
+      "Slamming the weight stack"
+    ],
+    "safetyTips": [
+      "Keep the movement in the abs — if the hips or arms are doing the work, reduce the weight.",
+      "Avoid if you have a history of lower-back problems without professional advice."
+    ],
+    "whenToStop": [
+      "Lower-back pain during the crunch",
+      "Neck strain"
+    ],
+    "alternatives": [
+      "Cable Crunch",
+      "Crunch",
+      "Plank"
+    ],
+    "tip": "Exhale everything out at the top — the abs contract hardest when the lungs are empty.",
+    "slug": "ab-crunch-machine"
+  },
+  {
+    "id": 33,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Cable Crunch",
+    "category": "Core",
+    "muscleGroup": "Core",
+    "targetMuscles": [
+      "Rectus abdominis",
+      "Obliques"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Moderate",
+    "popular": false,
+    "description": "A kneeling crunch against cable resistance. The cable lets you load the abs progressively, unlike bodyweight crunches.",
+    "startingPosition": "Attach a rope to the high pulley. Kneel facing the stack, hold the rope beside your head, and let the cable stretch you slightly upright.",
+    "steps": [
+      "Kneel about a metre from the stack with the rope by your ears.",
+      "Keep the hips fixed — the crunch happens only in the spine.",
+      "Curl the ribs toward the pelvis, exhaling fully.",
+      "Squeeze the abs hard at the bottom.",
+      "Return slowly until you feel a stretch in the abs."
+    ],
+    "breathing": "Exhale completely as you crunch down, inhale on the way up.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Light weight; the movement is smaller than it looks."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Pause for 2 seconds at the bottom of each rep."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Increase the load gradually — the abs respond to progressive overload too."
+      }
+    },
+    "commonMistakes": [
+      "Hinging at the hips instead of curling the spine",
+      "Pulling the rope with the arms",
+      "Using too much weight",
+      "Letting the cable yank the body up"
+    ],
+    "safetyTips": [
+      "Keep the arms passive — they only hold the rope in place.",
+      "Kneel on a mat to protect the knees."
+    ],
+    "whenToStop": [
+      "Lower-back pain",
+      "Neck strain"
+    ],
+    "alternatives": [
+      "Ab Crunch Machine",
+      "Crunch",
+      "Hanging Knee Raise"
+    ],
+    "tip": "The abs only move the ribcage about 30° — the rest is wasted motion and hip work.",
+    "slug": "cable-crunch"
+  },
+  {
+    "id": 34,
+    "createdAt": "2026-08-13T21:46:39.142Z",
+    "updatedAt": "2026-08-13T21:46:39.142Z",
+    "name": "Back Extension Bench",
+    "category": "Core",
+    "muscleGroup": "Core",
+    "targetMuscles": [
+      "Erector spinae",
+      "Glutes",
+      "Hamstrings",
+      "Core"
+    ],
+    "equipmentType": "Other",
+    "difficulty": "Moderate",
+    "popular": false,
+    "description": "Also called the Roman chair or 45° hyperextension. Strengthens the entire back chain — the muscles that protect your spine in every lift.",
+    "startingPosition": "Position yourself face down with the hip pad just below your hip bones, feet hooked under the pads, body in a straight line.",
+    "steps": [
+      "Set the pad so your hips can hinge freely.",
+      "Start with the body in one straight line from head to heels.",
+      "Lower slowly by hinging at the hips until you feel a hamstring stretch.",
+      "Rise back up by squeezing the glutes — not by arching the lower back.",
+      "Stop at the straight-line position; never hyperextend backwards."
+    ],
+    "breathing": "Inhale on the way down, exhale as you rise.",
+    "levelDetails": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 60,
+        "note": "Bodyweight only; learn the hinge before holding any weight."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Hold a light plate to the chest once the movement is perfect."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–12",
+        "restSec": 75,
+        "note": "Progress weight slowly — quality of hinge matters more than load."
+      }
+    },
+    "commonMistakes": [
+      "Hyperextending the back at the top",
+      "Rounding the back at the bottom",
+      "Using momentum to swing up",
+      "Setting the pad too high or too low"
+    ],
+    "safetyTips": [
+      "Never swing or bounce — every rep should be slow and controlled.",
+      "If you have a history of back issues, check with a professional before using this bench."
+    ],
+    "whenToStop": [
+      "Sharp lower-back pain",
+      "Muscle spasms"
+    ],
+    "alternatives": [
+      "Glute Bridge",
+      "Good Morning (light)",
+      "Bird Dog"
+    ],
+    "tip": "Think \"push the hips into the pad\" as you rise — that cue fires the glutes.",
+    "slug": "back-extension-bench"
+  }
+]

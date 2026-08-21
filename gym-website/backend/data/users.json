@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.245Z",
+    "updatedAt": "2026-08-13T21:46:39.245Z",
+    "name": "Gym Owner",
+    "email": "admin@ironpulse.fit",
+    "passwordHash": "$2a$10$P0RiAqnoNBO2J551DNsIz.L6l7jqapErDocTySfdaJyrLt8lQdl.C",
+    "role": "ADMIN",
+    "phone": "+91 98765 43210",
+    "active": true
+  },
+  {
+    "id": 2,
+    "createdAt": "2026-08-13T21:46:39.328Z",
+    "updatedAt": "2026-08-13T21:46:39.328Z",
+    "name": "Karan Rathore",
+    "email": "trainer@ironpulse.fit",
+    "passwordHash": "$2a$10$EzGDDErYoAj2P8EssTfas.7ii5eb6seMd/0H/McXdEl.tPp9egrLi",
+    "role": "TRAINER",
+    "phone": "+91 98765 43211",
+    "active": true
+  },
+  {
+    "id": 3,
+    "createdAt": "2026-08-13T21:46:39.409Z",
+    "updatedAt": "2026-08-13T21:46:39.409Z",
+    "name": "Demo Member",
+    "email": "member@ironpulse.fit",
+    "passwordHash": "$2a$10$cmoDaFyfc6x6vVGo8Bh7GuS/1jjjQEVge7C3VNtQnpAaU11Qnyztq",
+    "role": "MEMBER",
+    "phone": "+91 98765 43212",
+    "active": true,
+    "age": 24,
+    "height": 172,
+    "fitnessLevel": "intermediate",
+    "goal": "muscle_development",
+    "activityLevel": "moderate",
+    "workoutDays": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday",
+      "saturday"
+    ],
+    "workoutDuration": 60,
+    "equipment": [
+      "Machine",
+      "Dumbbell",
+      "Barbell",
+      "Cable",
+      "Cardio",
+      "Bodyweight"
+    ],
+    "preferences": [],
+    "avatarColor": "#ff5c1c"
+  }
+]

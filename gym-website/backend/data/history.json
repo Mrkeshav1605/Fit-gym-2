@@ -1,0 +1,1201 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-06-20",
+    "day": "saturday",
+    "focus": "Cardio + Mobility + Full Body",
+    "muscleGroups": [
+      "Cardio",
+      "Full Body"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 27,
+        "name": "Stair Climber",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 23,
+        "name": "Treadmill",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 25,
+        "name": "Exercise Bike",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 11,
+        "name": "Leg Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 12,
+        "name": "Leg Curl",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 9,
+    "volume": 107,
+    "durationMin": 49,
+    "notes": "",
+    "completedAt": "2026-06-20T14:45:39.413Z"
+  },
+  {
+    "id": 2,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-06-22",
+    "day": "monday",
+    "focus": "Chest + Triceps",
+    "muscleGroups": [
+      "Chest",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 5,
+        "name": "Cable Crossover",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 1,
+        "name": "Flat Bench Press",
+        "setsDone": 4,
+        "setsTarget": 4
+      },
+      {
+        "exerciseId": 22,
+        "name": "Triceps Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 14,
+        "name": "Smith Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 29,
+        "name": "Cable Crunch",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 16,
+    "volume": 164,
+    "durationMin": 44,
+    "notes": "",
+    "completedAt": "2026-06-22T11:06:39.413Z"
+  },
+  {
+    "id": 3,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-06-23",
+    "day": "tuesday",
+    "focus": "Back + Biceps",
+    "muscleGroups": [
+      "Back",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 8,
+        "name": "Assisted Pull-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 6,
+        "name": "Lat Pulldown",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 20,
+        "name": "Cable Curl",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 31,
+        "name": "Push-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 26,
+        "name": "Rowing Machine",
+        "setsDone": 1,
+        "setsTarget": 1
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 163,
+    "durationMin": 55,
+    "notes": "",
+    "completedAt": "2026-06-23T07:36:39.413Z"
+  },
+  {
+    "id": 4,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-06-24",
+    "day": "wednesday",
+    "focus": "Legs",
+    "muscleGroups": [
+      "Legs"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 33,
+        "name": "Walking Lunge",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 42,
+        "name": "Goblet Squat",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 10,
+        "name": "Leg Press",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 24,
+        "name": "Cross Trainer",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 35,
+        "name": "Mountain Climber",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 149,
+    "durationMin": 63,
+    "notes": "",
+    "completedAt": "2026-06-24T17:41:39.412Z"
+  },
+  {
+    "id": 5,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-06-30",
+    "day": "tuesday",
+    "focus": "Back + Biceps",
+    "muscleGroups": [
+      "Back",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 8,
+        "name": "Assisted Pull-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 6,
+        "name": "Lat Pulldown",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 20,
+        "name": "Cable Curl",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 31,
+        "name": "Push-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 26,
+        "name": "Rowing Machine",
+        "setsDone": 1,
+        "setsTarget": 1
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 168,
+    "durationMin": 40,
+    "notes": "",
+    "completedAt": "2026-06-30T12:39:39.413Z"
+  },
+  {
+    "id": 6,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-01",
+    "day": "wednesday",
+    "focus": "Legs",
+    "muscleGroups": [
+      "Legs"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 33,
+        "name": "Walking Lunge",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 42,
+        "name": "Goblet Squat",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 10,
+        "name": "Leg Press",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 24,
+        "name": "Cross Trainer",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 35,
+        "name": "Mountain Climber",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 164,
+    "durationMin": 55,
+    "notes": "",
+    "completedAt": "2026-07-01T17:14:39.413Z"
+  },
+  {
+    "id": 7,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-02",
+    "day": "thursday",
+    "focus": "Shoulders + Core",
+    "muscleGroups": [
+      "Shoulders",
+      "Core"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 41,
+        "name": "Russian Twist",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 37,
+        "name": "Leg Raise",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 34,
+        "name": "Plank",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 16,
+        "name": "Shoulder Press",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 32,
+        "name": "Bodyweight Squat",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 15,
+    "volume": 181,
+    "durationMin": 59,
+    "notes": "",
+    "completedAt": "2026-07-02T11:53:39.413Z"
+  },
+  {
+    "id": 8,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-04",
+    "day": "saturday",
+    "focus": "Cardio + Mobility + Full Body",
+    "muscleGroups": [
+      "Cardio",
+      "Full Body"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 27,
+        "name": "Stair Climber",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 23,
+        "name": "Treadmill",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 25,
+        "name": "Exercise Bike",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 11,
+        "name": "Leg Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 12,
+        "name": "Leg Curl",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 9,
+    "volume": 126,
+    "durationMin": 54,
+    "notes": "",
+    "completedAt": "2026-07-04T09:17:39.413Z"
+  },
+  {
+    "id": 9,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-06",
+    "day": "monday",
+    "focus": "Chest + Triceps",
+    "muscleGroups": [
+      "Chest",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 5,
+        "name": "Cable Crossover",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 1,
+        "name": "Flat Bench Press",
+        "setsDone": 4,
+        "setsTarget": 4
+      },
+      {
+        "exerciseId": 22,
+        "name": "Triceps Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 14,
+        "name": "Smith Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 29,
+        "name": "Cable Crunch",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 16,
+    "volume": 182,
+    "durationMin": 41,
+    "notes": "",
+    "completedAt": "2026-07-06T11:41:39.413Z"
+  },
+  {
+    "id": 10,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-07",
+    "day": "tuesday",
+    "focus": "Back + Biceps",
+    "muscleGroups": [
+      "Back",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 8,
+        "name": "Assisted Pull-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 6,
+        "name": "Lat Pulldown",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 20,
+        "name": "Cable Curl",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 31,
+        "name": "Push-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 26,
+        "name": "Rowing Machine",
+        "setsDone": 1,
+        "setsTarget": 1
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 140,
+    "durationMin": 51,
+    "notes": "",
+    "completedAt": "2026-07-07T09:49:39.413Z"
+  },
+  {
+    "id": 11,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-08",
+    "day": "wednesday",
+    "focus": "Legs",
+    "muscleGroups": [
+      "Legs"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 33,
+        "name": "Walking Lunge",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 42,
+        "name": "Goblet Squat",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 10,
+        "name": "Leg Press",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 24,
+        "name": "Cross Trainer",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 35,
+        "name": "Mountain Climber",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 139,
+    "durationMin": 54,
+    "notes": "",
+    "completedAt": "2026-07-08T15:19:39.413Z"
+  },
+  {
+    "id": 12,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-09",
+    "day": "thursday",
+    "focus": "Shoulders + Core",
+    "muscleGroups": [
+      "Shoulders",
+      "Core"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 41,
+        "name": "Russian Twist",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 37,
+        "name": "Leg Raise",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 34,
+        "name": "Plank",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 16,
+        "name": "Shoulder Press",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 32,
+        "name": "Bodyweight Squat",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 15,
+    "volume": 187,
+    "durationMin": 63,
+    "notes": "",
+    "completedAt": "2026-07-09T07:10:39.413Z"
+  },
+  {
+    "id": 13,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-10",
+    "day": "friday",
+    "focus": "Upper Body / Strength",
+    "muscleGroups": [
+      "Chest",
+      "Back",
+      "Shoulders",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 7,
+        "name": "Seated Cable Row",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 19,
+        "name": "Biceps Curl Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 3,
+        "name": "Chest Press Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 17,
+        "name": "Lateral Raise Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 13,
+        "name": "Squat Rack",
+        "setsDone": 4,
+        "setsTarget": 4
+      }
+    ],
+    "setsCompleted": 16,
+    "volume": 166,
+    "durationMin": 58,
+    "notes": "",
+    "completedAt": "2026-07-10T17:53:39.413Z"
+  },
+  {
+    "id": 14,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-13",
+    "day": "monday",
+    "focus": "Chest + Triceps",
+    "muscleGroups": [
+      "Chest",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 5,
+        "name": "Cable Crossover",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 1,
+        "name": "Flat Bench Press",
+        "setsDone": 4,
+        "setsTarget": 4
+      },
+      {
+        "exerciseId": 22,
+        "name": "Triceps Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 14,
+        "name": "Smith Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 29,
+        "name": "Cable Crunch",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 16,
+    "volume": 196,
+    "durationMin": 48,
+    "notes": "",
+    "completedAt": "2026-07-13T12:03:39.413Z"
+  },
+  {
+    "id": 15,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-16",
+    "day": "thursday",
+    "focus": "Shoulders + Core",
+    "muscleGroups": [
+      "Shoulders",
+      "Core"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 41,
+        "name": "Russian Twist",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 37,
+        "name": "Leg Raise",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 34,
+        "name": "Plank",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 16,
+        "name": "Shoulder Press",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 32,
+        "name": "Bodyweight Squat",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 15,
+    "volume": 160,
+    "durationMin": 49,
+    "notes": "",
+    "completedAt": "2026-07-16T08:17:39.413Z"
+  },
+  {
+    "id": 16,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-18",
+    "day": "saturday",
+    "focus": "Cardio + Mobility + Full Body",
+    "muscleGroups": [
+      "Cardio",
+      "Full Body"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 27,
+        "name": "Stair Climber",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 23,
+        "name": "Treadmill",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 25,
+        "name": "Exercise Bike",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 11,
+        "name": "Leg Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 12,
+        "name": "Leg Curl",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 9,
+    "volume": 102,
+    "durationMin": 47,
+    "notes": "",
+    "completedAt": "2026-07-18T14:18:39.413Z"
+  },
+  {
+    "id": 17,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-20",
+    "day": "monday",
+    "focus": "Chest + Triceps",
+    "muscleGroups": [
+      "Chest",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 5,
+        "name": "Cable Crossover",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 1,
+        "name": "Flat Bench Press",
+        "setsDone": 4,
+        "setsTarget": 4
+      },
+      {
+        "exerciseId": 22,
+        "name": "Triceps Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 14,
+        "name": "Smith Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 29,
+        "name": "Cable Crunch",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 16,
+    "volume": 184,
+    "durationMin": 61,
+    "notes": "",
+    "completedAt": "2026-07-20T07:47:39.413Z"
+  },
+  {
+    "id": 18,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-27",
+    "day": "monday",
+    "focus": "Chest + Triceps",
+    "muscleGroups": [
+      "Chest",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 5,
+        "name": "Cable Crossover",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 1,
+        "name": "Flat Bench Press",
+        "setsDone": 4,
+        "setsTarget": 4
+      },
+      {
+        "exerciseId": 22,
+        "name": "Triceps Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 14,
+        "name": "Smith Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 29,
+        "name": "Cable Crunch",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 16,
+    "volume": 168,
+    "durationMin": 63,
+    "notes": "",
+    "completedAt": "2026-07-27T18:18:39.413Z"
+  },
+  {
+    "id": 19,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-28",
+    "day": "tuesday",
+    "focus": "Back + Biceps",
+    "muscleGroups": [
+      "Back",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 8,
+        "name": "Assisted Pull-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 6,
+        "name": "Lat Pulldown",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 20,
+        "name": "Cable Curl",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 31,
+        "name": "Push-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 26,
+        "name": "Rowing Machine",
+        "setsDone": 1,
+        "setsTarget": 1
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 141,
+    "durationMin": 44,
+    "notes": "",
+    "completedAt": "2026-07-28T08:52:39.413Z"
+  },
+  {
+    "id": 20,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-07-29",
+    "day": "wednesday",
+    "focus": "Legs",
+    "muscleGroups": [
+      "Legs"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 33,
+        "name": "Walking Lunge",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 42,
+        "name": "Goblet Squat",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 10,
+        "name": "Leg Press",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 24,
+        "name": "Cross Trainer",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 35,
+        "name": "Mountain Climber",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 163,
+    "durationMin": 52,
+    "notes": "",
+    "completedAt": "2026-07-29T14:26:39.413Z"
+  },
+  {
+    "id": 21,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-08-03",
+    "day": "monday",
+    "focus": "Chest + Triceps",
+    "muscleGroups": [
+      "Chest",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 5,
+        "name": "Cable Crossover",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 1,
+        "name": "Flat Bench Press",
+        "setsDone": 4,
+        "setsTarget": 4
+      },
+      {
+        "exerciseId": 22,
+        "name": "Triceps Extension",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 14,
+        "name": "Smith Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 29,
+        "name": "Cable Crunch",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 16,
+    "volume": 188,
+    "durationMin": 62,
+    "notes": "",
+    "completedAt": "2026-08-03T08:30:39.413Z"
+  },
+  {
+    "id": 22,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-08-04",
+    "day": "tuesday",
+    "focus": "Back + Biceps",
+    "muscleGroups": [
+      "Back",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 8,
+        "name": "Assisted Pull-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 6,
+        "name": "Lat Pulldown",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 20,
+        "name": "Cable Curl",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 31,
+        "name": "Push-Up",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 26,
+        "name": "Rowing Machine",
+        "setsDone": 1,
+        "setsTarget": 1
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 151,
+    "durationMin": 59,
+    "notes": "",
+    "completedAt": "2026-08-04T16:49:39.413Z"
+  },
+  {
+    "id": 23,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-08-05",
+    "day": "wednesday",
+    "focus": "Legs",
+    "muscleGroups": [
+      "Legs"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 33,
+        "name": "Walking Lunge",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 42,
+        "name": "Goblet Squat",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 10,
+        "name": "Leg Press",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 24,
+        "name": "Cross Trainer",
+        "setsDone": 1,
+        "setsTarget": 1
+      },
+      {
+        "exerciseId": 35,
+        "name": "Mountain Climber",
+        "setsDone": 3,
+        "setsTarget": 3
+      }
+    ],
+    "setsCompleted": 13,
+    "volume": 140,
+    "durationMin": 42,
+    "notes": "",
+    "completedAt": "2026-08-05T09:19:39.413Z"
+  },
+  {
+    "id": 24,
+    "createdAt": "2026-08-13T21:46:39.421Z",
+    "updatedAt": "2026-08-13T21:46:39.421Z",
+    "userId": 3,
+    "date": "2026-08-07",
+    "day": "friday",
+    "focus": "Upper Body / Strength",
+    "muscleGroups": [
+      "Chest",
+      "Back",
+      "Shoulders",
+      "Arms"
+    ],
+    "exercises": [
+      {
+        "exerciseId": 7,
+        "name": "Seated Cable Row",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 19,
+        "name": "Biceps Curl Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 3,
+        "name": "Chest Press Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 17,
+        "name": "Lateral Raise Machine",
+        "setsDone": 3,
+        "setsTarget": 3
+      },
+      {
+        "exerciseId": 13,
+        "name": "Squat Rack",
+        "setsDone": 4,
+        "setsTarget": 4
+      }
+    ],
+    "setsCompleted": 16,
+    "volume": 161,
+    "durationMin": 51,
+    "notes": "",
+    "completedAt": "2026-08-07T10:51:39.413Z"
+  }
+]

@@ -1,0 +1,1547 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Flat Bench Press",
+    "machineSlug": "flat-bench-press",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Pectoralis major",
+      "Triceps brachii"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Moderate",
+    "popular": true,
+    "instructions": "Set the safety pins or ask for a spot before you unrack any working weight. Lower the bar slowly to your mid-chest with elbows at about 45° from your body. Touch the chest lightly — do not bounce the bar.",
+    "safetyTip": "Learn proper technique from a qualified trainer before performing this exercise independently.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 120,
+        "note": "Start with the empty bar or light dumbbells until the movement feels natural. Always use a spotter."
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": "6–10",
+        "restSec": 120,
+        "note": "Progress the load gradually (2.5 kg per side per week is plenty)."
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": "4–8",
+        "restSec": 180,
+        "note": "Consider periodisation and always keep a spotter for heavy sets."
+      }
+    },
+    "archived": false,
+    "machineId": 1
+  },
+  {
+    "id": 2,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Incline Bench Press",
+    "machineSlug": "incline-bench-press",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Upper pectoralis major",
+      "Anterior deltoids"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Set the bench angle to 30–45° — steeper angles shift work to the shoulders. Lower the bar under control to just below your collarbone. Pause for a moment without bouncing.",
+    "safetyTip": "Use a spotter or safety pins on heavy sets.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Use dumbbells or the Smith machine first if balancing the bar feels difficult."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "6–10",
+        "restSec": 120,
+        "note": "Alternate with flat pressing to develop the full chest."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "6–8",
+        "restSec": 150,
+        "note": "Keep a spotter for working sets near failure."
+      }
+    },
+    "archived": false,
+    "machineId": 2
+  },
+  {
+    "id": 3,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Chest Press Machine",
+    "machineSlug": "chest-press-machine",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Pectoralis major",
+      "Triceps brachii"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Adjust the seat so the handles align with your mid-chest. Select an appropriate resistance. Position your back against the pad and plant your feet.",
+    "safetyTip": "Use an appropriate resistance and stop if you experience sharp pain, dizziness, or unusual symptoms.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "A great first machine — master control before moving to free weights."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Use a slow 3-second return to increase time under tension."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Use as a finisher after free-weight pressing."
+      }
+    },
+    "archived": false,
+    "machineId": 3
+  },
+  {
+    "id": 4,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Pec Deck",
+    "machineSlug": "pec-deck",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Pectoralis major (sternal head)",
+      "Anterior deltoids"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Adjust the seat so your elbows and shoulders are in line. Keep a slight bend in the elbows for the entire set. Squeeze the pads together until they almost touch.",
+    "safetyTip": "Never let the arms travel behind the line of the body — the stretch comes from the chest, not the shoulder joint.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use a light resistance and focus on feeling the chest stretch and squeeze."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Slow down the opening phase to about 3 seconds."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Use as a pre-exhaust or finisher exercise."
+      }
+    },
+    "archived": false,
+    "machineId": 4
+  },
+  {
+    "id": 5,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Cable Crossover",
+    "machineSlug": "cable-crossover",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Pectoralis major",
+      "Anterior deltoids"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Moderate",
+    "popular": true,
+    "instructions": "Set both pulleys at the same height. Step forward so the cables are under light tension even at the start. With a soft elbow bend, bring the handles together in front of your chest in an arc.",
+    "safetyTip": "Keep your core braced and spine neutral in the staggered stance.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use light resistance and a slow, steady rhythm."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Vary pulley height between sets for a fuller chest stimulus."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Try a 2-second squeeze at the top of each rep."
+      }
+    },
+    "archived": false,
+    "machineId": 5
+  },
+  {
+    "id": 6,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Lat Pulldown",
+    "machineSlug": "lat-pulldown",
+    "muscleGroup": "Back",
+    "secondaryMuscles": [
+      "Latissimus dorsi",
+      "Biceps brachii"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Adjust the thigh pads so you stay seated during the pull. Grip the bar just wider than shoulder width. Lean back slightly, keep the chest up, and pull the bar to your upper chest.",
+    "safetyTip": "Always pull to the front of the chest, never behind the neck.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Learn to feel the lats work; lighter is better than jerky."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Try a pause at the chest on every rep."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Slow the negative to 3 seconds for extra back growth."
+      }
+    },
+    "archived": false,
+    "machineId": 6
+  },
+  {
+    "id": 7,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Seated Cable Row",
+    "machineSlug": "seated-cable-row",
+    "muscleGroup": "Back",
+    "secondaryMuscles": [
+      "Latissimus dorsi",
+      "Rhomboids"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Sit tall with a neutral spine and soft knees. Pull the handle toward your lower ribs. Squeeze the shoulder blades together at the end of the pull.",
+    "safetyTip": "Keep the lower back neutral throughout — brace as if someone might push you.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Keep the torso still — if it moves, reduce the weight."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Pause for 1 second with the handle at the ribs."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Use different grips (narrow, wide) across sets."
+      }
+    },
+    "archived": false,
+    "machineId": 7
+  },
+  {
+    "id": 8,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Assisted Pull-Up",
+    "machineSlug": "assisted-pull-up",
+    "muscleGroup": "Back",
+    "secondaryMuscles": [
+      "Latissimus dorsi",
+      "Biceps brachii"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Select an assist level that lets you complete every rep with good form. Start from a full hang with the chest up. Pull until your chin reaches bar height.",
+    "safetyTip": "Grip firmly and step off the platform carefully after the set.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Choose generous assistance and prioritise a full range of motion."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "6–10",
+        "restSec": 120,
+        "note": "Lower the assistance each week until you can do unassisted reps."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "6–8",
+        "restSec": 120,
+        "note": "Add a slow 3-second negative on the last rep of each set."
+      }
+    },
+    "archived": false,
+    "machineId": 8
+  },
+  {
+    "id": 9,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "T-Bar Row",
+    "machineSlug": "t-bar-row",
+    "muscleGroup": "Back",
+    "secondaryMuscles": [
+      "Latissimus dorsi",
+      "Rhomboids"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Advanced",
+    "popular": false,
+    "instructions": "Keep your chest firmly on the pad for the entire set. Start from a full stretch with the shoulder blades spread. Row the weight up until the plates touch the chest pad.",
+    "safetyTip": "This is a heavier compound movement — learn proper technique from a qualified trainer before performing this exercise independently.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Master the chest-pad version before trying the free-standing hinge."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 120,
+        "note": "Add a 1-second squeeze at the top of each rep."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "6–10",
+        "restSec": 150,
+        "note": "Progress load conservatively; form quality is the goal."
+      }
+    },
+    "archived": false,
+    "machineId": 9
+  },
+  {
+    "id": 10,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Leg Press",
+    "machineSlug": "leg-press",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Quadriceps",
+      "Gluteus maximus"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Adjust the seat so your knees stay at about 90° at the bottom. Lower the platform until your knees approach your chest without the hips rolling up. Keep your knees tracking in line with your toes.",
+    "safetyTip": "Never fully lock and snap the knees.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 120,
+        "note": "Learn the depth that keeps your hips on the pad."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 120,
+        "note": "Vary foot placement: higher for glutes, lower for quads."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 150,
+        "note": "Use single-leg presses to address side-to-side differences."
+      }
+    },
+    "archived": false,
+    "machineId": 10
+  },
+  {
+    "id": 11,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Leg Extension",
+    "machineSlug": "leg-extension",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Quadriceps"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Adjust the seat so your knees line up with the pivot point of the machine. Grip the handles for stability. Extend your legs until they are straight, squeezing the quads.",
+    "safetyTip": "If you have a history of knee issues, consult a qualified professional before adding load.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use light resistance and a full, smooth range of motion."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 75,
+        "note": "Slow the lowering phase to 3 seconds."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use as a pre-exhaust before squats or a finisher after."
+      }
+    },
+    "archived": false,
+    "machineId": 11
+  },
+  {
+    "id": 12,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Leg Curl",
+    "machineSlug": "leg-curl",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves (assistance)"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Align your knees with the machine pivot. Grip the handles and press your hips down into the pad. Curl the pad toward your glutes in a smooth arc.",
+    "safetyTip": "Aim for the hamstrings to cramp-squeeze — not the lower back.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Keep the hips pressed down — do not let them rise."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Add a 1-second squeeze at the top."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Try one leg at a time to fix imbalances."
+      }
+    },
+    "archived": false,
+    "machineId": 12
+  },
+  {
+    "id": 13,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Squat Rack",
+    "machineSlug": "squat-rack",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Quadriceps",
+      "Gluteus maximus"
+    ],
+    "equipmentType": "Barbell",
+    "difficulty": "Advanced",
+    "popular": true,
+    "instructions": "Set the safety pins just below your bottom position. Brace your core as if preparing to be pushed. Sit down and back, keeping your chest proud and knees tracking over the toes.",
+    "safetyTip": "Learn proper technique from a qualified trainer before performing this exercise independently.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 150,
+        "note": "Learn the bodyweight and goblet squat first. Always squat inside a rack with pins."
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": "5–8",
+        "restSec": 180,
+        "note": "Film your sets from the side to check depth and bar path."
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": "3–6",
+        "restSec": 240,
+        "note": "Programme deload weeks and never train heavy without a spotter or pins."
+      }
+    },
+    "archived": false,
+    "machineId": 13
+  },
+  {
+    "id": 14,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Smith Machine",
+    "machineSlug": "smith-machine",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Quadriceps",
+      "Gluteus maximus"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Moderate",
+    "popular": true,
+    "instructions": "Set the safety stops at a height just below your bottom position. Stand with feet slightly forward of the bar line. Descend until the thighs are parallel or lower.",
+    "safetyTip": "Always set the safety stops before you unrack.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 120,
+        "note": "A great place to learn the squat pattern with less balance demand."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 120,
+        "note": "Combine with free-weight squats for the best of both worlds."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–12",
+        "restSec": 120,
+        "note": "Use for high-rep leg finishers when fatigued."
+      }
+    },
+    "archived": false,
+    "machineId": 14
+  },
+  {
+    "id": 15,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Calf Raise",
+    "machineSlug": "calf-raise",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Gastrocnemius",
+      "Soleus"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Keep the knees straight but not locked. Lower the heels slowly until you feel a deep stretch in the calves. Pause for one second at the bottom.",
+    "safetyTip": "Use a full stretch but never a painful one.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Bodyweight or light load, full range of motion."
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Add a 2-second pause at the bottom to remove the stretch reflex."
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Train calves 2–3 times per week — they recover quickly."
+      }
+    },
+    "archived": false,
+    "machineId": 15
+  },
+  {
+    "id": 16,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Shoulder Press",
+    "machineSlug": "shoulder-press",
+    "muscleGroup": "Shoulders",
+    "secondaryMuscles": [
+      "Deltoids (all heads)",
+      "Triceps brachii"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Set the seat height so the handles start at ear level. Press the handles overhead until the arms are extended but not locked hard. Keep your lower back against the pad — no arching.",
+    "safetyTip": "Keep the back flat on the pad — if it leaves the pad, reduce the weight.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90,
+        "note": "Start light; the shoulders respond best to controlled reps."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90,
+        "note": "Slow the negative to 3 seconds."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90,
+        "note": "Pair with lateral raises for complete shoulder development."
+      }
+    },
+    "archived": false,
+    "machineId": 16
+  },
+  {
+    "id": 17,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Lateral Raise Machine",
+    "machineSlug": "lateral-raise-machine",
+    "muscleGroup": "Shoulders",
+    "secondaryMuscles": [
+      "Deltoids (lateral head)",
+      "Supraspinatus"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Adjust the seat so the machine pivot aligns with your shoulder joint. Raise your upper arms out to the sides until they are level with your shoulders. Lead with the elbows, not the hands.",
+    "safetyTip": "Stop at shoulder height — higher turns it into a trap shrug and stresses the joint.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Light weight, perfect form — the lateral head is small but proud."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Add a 1-second hold at the top."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Drop sets work brilliantly here — but keep every rep clean."
+      }
+    },
+    "archived": false,
+    "machineId": 17
+  },
+  {
+    "id": 18,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Cable Lateral Raise",
+    "machineSlug": "cable-lateral-raise",
+    "muscleGroup": "Shoulders",
+    "secondaryMuscles": [
+      "Deltoids (lateral head)"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Stand tall with a soft bend in the elbow. Raise the arm out to the side to shoulder height in a smooth arc. Keep the wrist neutral — the cable does the work, not the hand.",
+    "safetyTip": "Keep the shoulder down and away from the ear throughout.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Stand far enough from the stack that the cable is never slack."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Slightly lean away from the stack for a longer lever arm."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Try the \"behind the back\" setup for a stronger stretch."
+      }
+    },
+    "archived": false,
+    "machineId": 18
+  },
+  {
+    "id": 19,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Biceps Curl Machine",
+    "machineSlug": "biceps-curl-machine",
+    "muscleGroup": "Arms",
+    "secondaryMuscles": [
+      "Biceps brachii",
+      "Brachialis"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Adjust the seat so your elbows align with the machine pivot. Curl the handles up until the biceps are fully contracted. Squeeze hard for one second at the top.",
+    "safetyTip": "Keep the wrists straight — curling the wrists shifts stress to the forearms.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "The machine teaches the curl groove before free weights."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 60,
+        "note": "Slow negatives (3 seconds) transform this exercise."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Use as the final biceps exercise on arm day."
+      }
+    },
+    "archived": false,
+    "machineId": 19
+  },
+  {
+    "id": 20,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Cable Curl",
+    "machineSlug": "cable-curl",
+    "muscleGroup": "Arms",
+    "secondaryMuscles": [
+      "Biceps brachii",
+      "Brachialis"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Stand close enough that the cable is taut at the bottom. Curl the bar to your shoulders without moving the elbows. Squeeze the biceps at the top for one second.",
+    "safetyTip": "Elbows stay pinned — if they move, the shoulders take over.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "The constant tension teaches you to feel the biceps working."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Step back slightly for tension through the full range."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Finish with a 10-second isometric hold at 90°. "
+      }
+    },
+    "archived": false,
+    "machineId": 20
+  },
+  {
+    "id": 21,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Triceps Pushdown",
+    "machineSlug": "triceps-pushdown",
+    "muscleGroup": "Arms",
+    "secondaryMuscles": [
+      "Triceps brachii (lateral head)",
+      "Anconeus"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Grip the rope or bar with the elbows glued to your ribs. Push down until the arms are fully extended. Split the rope ends apart at the bottom if using a rope.",
+    "safetyTip": "Stand tall; if you must lean, the weight is too heavy.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Light weight, strict form, full lockout on every rep."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Add a pause at the bottom of each rep."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Use as a finisher with a controlled 3-second negative."
+      }
+    },
+    "archived": false,
+    "machineId": 21
+  },
+  {
+    "id": 22,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Triceps Extension",
+    "machineSlug": "triceps-extension",
+    "muscleGroup": "Arms",
+    "secondaryMuscles": [
+      "Triceps brachii (long head)"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Keep the elbows high and pointing forward, close to your ears. Extend the arms until they are straight overhead. Squeeze the triceps at full lockout.",
+    "safetyTip": "Brace the core to protect the lower back in the hinged position.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Start with a light load; the overhead position feels unusual at first."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Pause for a second in the stretched position."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Use a slow 3-second stretch on the way down."
+      }
+    },
+    "archived": false,
+    "machineId": 22
+  },
+  {
+    "id": 23,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Treadmill",
+    "machineSlug": "treadmill",
+    "muscleGroup": "Cardio",
+    "secondaryMuscles": [
+      "Legs"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Always start at a slow speed and step on carefully. Walk or jog with a tall posture — no leaning on the handrails. Gradually increase speed or incline to your target intensity.",
+    "safetyTip": "Use the emergency stop clip.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 1,
+        "reps": "15–25 min brisk walk or walk-jog",
+        "restSec": 0,
+        "note": "Aim for a pace where conversation is possible. Add incline for intensity without speed."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "25–35 min steady jog or intervals",
+        "restSec": 0,
+        "note": "Try 1 minute faster / 1 minute easier repeats."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "30–45 min run or hill intervals",
+        "restSec": 0,
+        "note": "Mix incline walking and tempo runs across the week."
+      }
+    },
+    "archived": false,
+    "machineId": 23
+  },
+  {
+    "id": 24,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Cross Trainer",
+    "machineSlug": "cross-trainer",
+    "muscleGroup": "Cardio",
+    "secondaryMuscles": [
+      "Legs",
+      "Shoulders and arms (with handles)"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Start pedalling to wake the console, then choose your programme. Keep a tall posture with a light grip on the handles. Push and pull the handles to involve the upper body.",
+    "safetyTip": "Use the step platforms when getting on and off.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 1,
+        "reps": "15–25 min at moderate resistance",
+        "restSec": 0,
+        "note": "Focus on a smooth stroke before adding resistance."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "25–35 min with interval bursts",
+        "restSec": 0,
+        "note": "Alternate 2 minutes easy / 2 minutes hard."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "30–45 min high-resistance session",
+        "restSec": 0,
+        "note": "Use the programmes or manual intervals for variety."
+      }
+    },
+    "archived": false,
+    "machineId": 24
+  },
+  {
+    "id": 25,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Exercise Bike",
+    "machineSlug": "exercise-bike",
+    "muscleGroup": "Cardio",
+    "secondaryMuscles": [
+      "Quadriceps",
+      "Calves"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Adjust the seat height first — a slight knee bend at the bottom. Pedal at a comfortable cadence for a 3-minute warm-up. Build to your target resistance and pace.",
+    "safetyTip": "Check the pedals are secure before riding.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 1,
+        "reps": "15–25 min steady ride",
+        "restSec": 0,
+        "note": "Comfortable resistance, steady cadence around 60–70 rpm."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "25–35 min with hill intervals",
+        "restSec": 0,
+        "note": "Raise resistance for 2 minutes, recover for 2, repeat."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "35–45 min mixed intervals",
+        "restSec": 0,
+        "note": "Combine seated and standing climbs for intensity."
+      }
+    },
+    "archived": false,
+    "machineId": 25
+  },
+  {
+    "id": 26,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Rowing Machine",
+    "machineSlug": "rowing-machine",
+    "muscleGroup": "Cardio",
+    "secondaryMuscles": [
+      "Back",
+      "Legs"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Moderate",
+    "popular": true,
+    "instructions": "The stroke order is: legs → body → arms. Drive with the legs first while the arms stay straight. Lean back slightly as the legs finish, then pull the handle to your ribs.",
+    "safetyTip": "Keep the back straight — the power comes from the legs.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 1,
+        "reps": "10–15 min technique-focused rowing",
+        "restSec": 0,
+        "note": "Learn the stroke order before chasing speed."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "20–30 min steady or intervals",
+        "restSec": 0,
+        "note": "Aim for 22–26 strokes per minute for endurance."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "30–40 min mixed pace",
+        "restSec": 0,
+        "note": "Add 250 m sprints with 1-minute rests."
+      }
+    },
+    "archived": false,
+    "machineId": 26
+  },
+  {
+    "id": 27,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Stair Climber",
+    "machineSlug": "stair-climber",
+    "muscleGroup": "Cardio",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quadriceps"
+    ],
+    "equipmentType": "Cardio",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Start at a slow speed to find your rhythm. Stand tall — do not lean your weight on the handrails. Place the whole foot on each step, not just the toes.",
+    "safetyTip": "Hold the rails if you feel unsteady — safety first.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 1,
+        "reps": "10–15 min slow climb",
+        "restSec": 0,
+        "note": "Hold the rails lightly for balance only."
+      },
+      "intermediate": {
+        "sets": 1,
+        "reps": "20–30 min steady climb",
+        "restSec": 0,
+        "note": "Keep hands off the rails as much as possible."
+      },
+      "advanced": {
+        "sets": 1,
+        "reps": "25–35 min interval climbs",
+        "restSec": 0,
+        "note": "Alternate 2 minutes hard / 2 minutes recovery."
+      }
+    },
+    "archived": false,
+    "machineId": 27
+  },
+  {
+    "id": 28,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Ab Crunch Machine",
+    "machineSlug": "ab-crunch-machine",
+    "muscleGroup": "Core",
+    "secondaryMuscles": [
+      "Rectus abdominis",
+      "Obliques"
+    ],
+    "equipmentType": "Machine",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Adjust the seat so the machine pivot sits at your waistline. Curl your torso forward by contracting the abs. Exhale fully as you crunch.",
+    "safetyTip": "Keep the movement in the abs — if the hips or arms are doing the work, reduce the weight.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Light resistance — feel the abs working, not the hips."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Add a pause at the contraction point."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Use as a finisher after compound core work."
+      }
+    },
+    "archived": false,
+    "machineId": 32
+  },
+  {
+    "id": 29,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Cable Crunch",
+    "machineSlug": "cable-crunch",
+    "muscleGroup": "Core",
+    "secondaryMuscles": [
+      "Rectus abdominis",
+      "Obliques"
+    ],
+    "equipmentType": "Cable",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Kneel about a metre from the stack with the rope by your ears. Keep the hips fixed — the crunch happens only in the spine. Curl the ribs toward the pelvis, exhaling fully.",
+    "safetyTip": "Keep the arms passive — they only hold the rope in place.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Light weight; the movement is smaller than it looks."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60,
+        "note": "Pause for 2 seconds at the bottom of each rep."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60,
+        "note": "Increase the load gradually — the abs respond to progressive overload too."
+      }
+    },
+    "archived": false,
+    "machineId": 33
+  },
+  {
+    "id": 30,
+    "createdAt": "2026-08-13T21:46:39.145Z",
+    "updatedAt": "2026-08-13T21:46:39.145Z",
+    "name": "Back Extension Bench",
+    "machineSlug": "back-extension-bench",
+    "muscleGroup": "Core",
+    "secondaryMuscles": [
+      "Erector spinae",
+      "Glutes"
+    ],
+    "equipmentType": "Other",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Set the pad so your hips can hinge freely. Start with the body in one straight line from head to heels. Lower slowly by hinging at the hips until you feel a hamstring stretch.",
+    "safetyTip": "Never swing or bounce — every rep should be slow and controlled.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 60,
+        "note": "Bodyweight only; learn the hinge before holding any weight."
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 75,
+        "note": "Hold a light plate to the chest once the movement is perfect."
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–12",
+        "restSec": 75,
+        "note": "Progress weight slowly — quality of hinge matters more than load."
+      }
+    },
+    "archived": false,
+    "machineId": 34
+  },
+  {
+    "id": 31,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Push-Up",
+    "muscleGroup": "Chest",
+    "secondaryMuscles": [
+      "Arms",
+      "Core"
+    ],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Keep your body in one straight line from head to heels. Lower your chest to just above the floor and press back up. Lower to the knees if needed.",
+    "safetyTip": "Keep the core braced so the hips never sag.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "6–10",
+        "restSec": 60
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "15–20",
+        "restSec": 60
+      }
+    }
+  },
+  {
+    "id": 32,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Bodyweight Squat",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Core"
+    ],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Feet shoulder-width, chest up. Sit down and back until the thighs are parallel, then stand. Perfect this before adding any load.",
+    "safetyTip": "Keep the knees tracking over the toes.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–15",
+        "restSec": 60
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "15–20",
+        "restSec": 60
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "20–25",
+        "restSec": 60
+      }
+    }
+  },
+  {
+    "id": 33,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Walking Lunge",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Core"
+    ],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Step forward and lower the back knee toward the floor, then push off the front foot into the next step. Keep the torso upright.",
+    "safetyTip": "Take a long enough step that the front knee stays over the ankle.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10 per leg",
+        "restSec": 75
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12 per leg",
+        "restSec": 75
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15 per leg",
+        "restSec": 75
+      }
+    }
+  },
+  {
+    "id": 34,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Plank",
+    "muscleGroup": "Core",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Forearms on the floor, elbows under shoulders, body in a straight line. Squeeze the glutes and abs; hold the position without letting the hips sag.",
+    "safetyTip": "Stop if your lower back starts to sag — form ends the set, not the clock.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "20–30 sec hold",
+        "restSec": 60
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "30–45 sec hold",
+        "restSec": 60
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "45–60 sec hold",
+        "restSec": 60
+      }
+    }
+  },
+  {
+    "id": 35,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Mountain Climber",
+    "muscleGroup": "Core",
+    "secondaryMuscles": [
+      "Cardio"
+    ],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "From a high plank, drive one knee toward the chest and switch legs quickly, as if running in place. Keep the hips low.",
+    "safetyTip": "Keep the shoulders over the wrists and the core braced.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "20–30 sec",
+        "restSec": 60
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "30–45 sec",
+        "restSec": 45
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "45–60 sec",
+        "restSec": 45
+      }
+    }
+  },
+  {
+    "id": 36,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Crunch",
+    "muscleGroup": "Core",
+    "secondaryMuscles": [],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Lie on your back with knees bent. Curl the shoulders off the floor using the abs — the lower back stays on the ground. Lower slowly.",
+    "safetyTip": "Keep the hands light behind the head; never pull on the neck.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 45
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "15–20",
+        "restSec": 45
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "20–25",
+        "restSec": 45
+      }
+    }
+  },
+  {
+    "id": 37,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Leg Raise",
+    "muscleGroup": "Core",
+    "secondaryMuscles": [],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Lie on your back with legs straight. Raise the legs to vertical using the lower abs, then lower slowly without arching the back.",
+    "safetyTip": "Stop lowering when the lower back starts to lift off the floor.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "8–10",
+        "restSec": 60
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 60
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60
+      }
+    }
+  },
+  {
+    "id": 38,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Jumping Jack",
+    "muscleGroup": "Full Body",
+    "secondaryMuscles": [
+      "Cardio"
+    ],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Jump the feet wide while raising the arms overhead, then jump back to the start. Keep a light, springy rhythm.",
+    "safetyTip": "Land softly with bent knees.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "20–30 sec",
+        "restSec": 45
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "30–45 sec",
+        "restSec": 45
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "45–60 sec",
+        "restSec": 45
+      }
+    }
+  },
+  {
+    "id": 39,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Glute Bridge",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Core"
+    ],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Easy",
+    "popular": false,
+    "instructions": "Lie on your back with knees bent and feet flat. Drive through the heels to lift the hips until the body forms a straight line, squeeze the glutes, lower slowly.",
+    "safetyTip": "Push through the heels, not the toes.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–15",
+        "restSec": 60
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "15–20",
+        "restSec": 60
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "15–20",
+        "restSec": 60
+      }
+    }
+  },
+  {
+    "id": 40,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Burpee",
+    "muscleGroup": "Full Body",
+    "secondaryMuscles": [
+      "Cardio"
+    ],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Advanced",
+    "popular": false,
+    "instructions": "Squat down, place the hands on the floor, kick the feet back to a plank, return the feet in, and jump up. Step instead of jumping if needed.",
+    "safetyTip": "Land softly and keep the core braced. Scale to a \"step-back burpee\" at any time.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "5–8",
+        "restSec": 60
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 60
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "12–15",
+        "restSec": 60
+      }
+    }
+  },
+  {
+    "id": 41,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Russian Twist",
+    "muscleGroup": "Core",
+    "secondaryMuscles": [],
+    "equipmentType": "Bodyweight",
+    "difficulty": "Moderate",
+    "popular": false,
+    "instructions": "Sit with knees bent and lean back slightly, keeping the back straight. Rotate the torso side to side, touching the floor beside each hip.",
+    "safetyTip": "Rotate from the torso, not the arms; keep the spine long.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "12–16 total",
+        "restSec": 45
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "16–20 total",
+        "restSec": 45
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "20–24 total",
+        "restSec": 45
+      }
+    }
+  },
+  {
+    "id": 42,
+    "createdAt": "2026-08-13T21:46:39.146Z",
+    "updatedAt": "2026-08-13T21:46:39.146Z",
+    "name": "Goblet Squat",
+    "muscleGroup": "Legs",
+    "secondaryMuscles": [
+      "Core"
+    ],
+    "equipmentType": "Dumbbell",
+    "difficulty": "Easy",
+    "popular": true,
+    "instructions": "Hold a dumbbell or kettlebell against your chest and squat between your knees, keeping the chest proud. The front load teaches perfect squat posture.",
+    "safetyTip": "Keep the weight close to the chest; if the torso folds, go lighter.",
+    "levelInfo": {
+      "beginner": {
+        "sets": 3,
+        "reps": "10–12",
+        "restSec": 90
+      },
+      "intermediate": {
+        "sets": 3,
+        "reps": "8–12",
+        "restSec": 90
+      },
+      "advanced": {
+        "sets": 4,
+        "reps": "8–10",
+        "restSec": 90
+      }
+    }
+  }
+]

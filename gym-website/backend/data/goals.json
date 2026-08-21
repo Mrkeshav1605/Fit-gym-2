@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "userId": 3,
+    "title": "Complete 4 workouts per week",
+    "type": "workouts_per_week",
+    "target": 4,
+    "current": 3,
+    "unit": "workouts"
+  },
+  {
+    "id": 2,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "userId": 3,
+    "title": "Improve consistency",
+    "type": "streak",
+    "target": 7,
+    "current": 2,
+    "unit": "days"
+  },
+  {
+    "id": 3,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "userId": 3,
+    "title": "Mobility minutes this week",
+    "type": "custom",
+    "target": 60,
+    "current": 40,
+    "unit": "minutes"
+  }
+]

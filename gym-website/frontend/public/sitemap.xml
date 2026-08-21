@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://ironpulse.fit/</loc><priority>1.0</priority></url>
+  <url><loc>https://ironpulse.fit/about</loc><priority>0.8</priority></url>
+  <url><loc>https://ironpulse.fit/programs</loc><priority>0.8</priority></url>
+  <url><loc>https://ironpulse.fit/machines</loc><priority>0.9</priority></url>
+  <url><loc>https://ironpulse.fit/workouts</loc><priority>0.8</priority></url>
+  <url><loc>https://ironpulse.fit/membership</loc><priority>0.9</priority></url>
+  <url><loc>https://ironpulse.fit/nutrition</loc><priority>0.7</priority></url>
+  <url><loc>https://ironpulse.fit/contact</loc><priority>0.7</priority></url>
+  <url><loc>https://ironpulse.fit/login</loc><priority>0.5</priority></url>
+  <url><loc>https://ironpulse.fit/register</loc><priority>0.8</priority></url>
+</urlset>

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "userId": 3,
+    "planId": 2,
+    "planName": "PRO",
+    "price": 1999,
+    "currency": "₹",
+    "startDate": "2026-07-30T21:46:39.412Z",
+    "expiryDate": "2026-08-29T21:46:39.412Z",
+    "status": "active",
+    "paymentMethod": "demo",
+    "paymentRef": "demo_pay_001"
+  }
+]

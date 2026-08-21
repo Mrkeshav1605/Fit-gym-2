@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "name": "Nisha Patel",
+    "email": "nisha@example.com",
+    "phone": "+91 90000 11111",
+    "subject": "Trial session",
+    "message": "Hi, do you offer a free trial day before joining? I would love to visit this Saturday.",
+    "read": false
+  },
+  {
+    "id": 2,
+    "createdAt": "2026-08-13T21:46:39.422Z",
+    "updatedAt": "2026-08-13T21:46:39.422Z",
+    "name": "Amit Jain",
+    "email": "amit@example.com",
+    "phone": "",
+    "subject": "Trainer consultation",
+    "message": "I have a mild knee issue and want to check which machines are safe for me. Can a trainer help?",
+    "read": false
+  }
+]
