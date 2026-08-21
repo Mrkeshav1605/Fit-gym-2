@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm install --prefix gym-website/frontend && npm run build --prefix gym-website/frontend",
+  "outputDirectory": "gym-website/frontend/dist",
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "/api" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

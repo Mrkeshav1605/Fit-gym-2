@@ -59,7 +59,11 @@ if (process.env.SERVE_FRONTEND !== 'false') {
 
 app.use(errorHandler);
 
-app.listen(PORT, () => {
-  console.log(`Smart Gym API running on http://localhost:${PORT}`);
-  console.log(`  Demo logins → admin@ironpulse.fit / Admin@123 · member@ironpulse.fit / Member@123`);
-});
+export default app;
+
+if (process.env.VERCEL !== '1') {
+  app.listen(PORT, () => {
+    console.log(`Smart Gym API running on http://localhost:${PORT}`);
+    console.log(`  Demo logins → admin@ironpulse.fit / Admin@123 · member@ironpulse.fit / Member@123`);
+  });
+}
